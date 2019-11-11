@@ -5,7 +5,7 @@
             <h1 class="text-white font-extrabold text-4xl font-sans my-4">
                 Ready to level up your call center?
             </h1>
-            <div class="inline-block text-2xl text-blue-100 px-6">
+            <div class="inline-block text-2xl text-blue-100 xl:px-6 px-2">
                 We specialize in developing software, processes, and documentation to markedly improve the technical foundation of your call center or telephone answering service.
             </div>
             <a alt="NotifiUs, LLC" class="rounded-lg block text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="/contact">

@@ -40,7 +40,7 @@
 
 <div class="flex flex-wrap lg:w-10/12 w-full px-4 mx-auto">
 
-    <div class="flex w-5/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-10">
+    <div class="flex lg:w-5/12 md:w-8/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-20">
 
         <img class="mx-0" style="height:64px;" src="/assets/images/shield.jpg" alt="NAEO Preferred Vendor">
 
@@ -57,7 +57,7 @@
     </div>
 
 
-    <div class="flex w-5/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-10">
+    <div class="flex lg:w-5/12 md:w-8/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-20">
 
         <img class="mx-0" style="height:64px;" src="/assets/images/experienced.jpg" alt="Experienced with Amtelco">
 

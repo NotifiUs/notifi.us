@@ -27,7 +27,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image:alt" content="Level up your call center. ">
 
-        <title>@yield('title')</title>
+        <title>@yield('title') &middot; NotifiUs, LLC</title>
 
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
         <link rel="icon" type="image/png" href="/assets/images/notifius-icon.png">
@@ -35,6 +35,8 @@
     
     </head>
     <body class="bg-gray-200 text-gray-900">
+        @include('_layouts.nav')
         @yield('body')
+        @include('_layouts.footer')
     </body>
 </html>

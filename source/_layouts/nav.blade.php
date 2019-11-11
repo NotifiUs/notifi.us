@@ -8,12 +8,12 @@
     <div class="ml-auto">
       <ul class="inline-flex">
       <li>
-          <a title="Home" alt="Home" class="px-4 hover:text-purple-700 font-bold" href="/">
+          <a title="Home" alt="Home" class="px-4 text-gray-700 hover:text-purple-700 font-bold" href="/">
             Home
           </a>
         </li>
         <li>
-          <a title="Contact" alt="Contact" class="px-4 hover:text-purple-700 font-bold" href="/contact">
+          <a title="Contact" alt="Contact" class="px-4 text-gray-700 hover:text-purple-700 font-bold" href="/contact">
             Contact
           </a>
         </li>

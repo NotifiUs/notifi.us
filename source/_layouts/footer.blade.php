@@ -1,6 +1,6 @@
 <div class="container px-4 max-w-lg mx-auto text-center my-10">
     <p class="text-sm font-sans w-100 text-gray-500">
-        <span class="text-gray-600 opacity-75">All rights reserved &copy; 2019 &middot; NotifiUs, LLC</span>
+        <span class="text-gray-600 opacity-75">All rights reserved &copy; 2019 <span class="text-gray-800 font-normal">NotifiUs, LLC</span></span>
     </p>
 
     <p class="text-xs font-sans w-100 text-gray-700 mt-10">

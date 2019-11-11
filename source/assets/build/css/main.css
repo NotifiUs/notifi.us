@@ -632,6 +632,11 @@ video {
   background-image: linear-gradient(180deg, #8c52ff 0%, #38b6ff 100%) !important;
 }
 
+.bg-gradient-alt {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#38b6ff), to(#8c52ff)) !important;
+  background-image: linear-gradient(180deg, #38b6ff 0%, #8c52ff 100%) !important;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

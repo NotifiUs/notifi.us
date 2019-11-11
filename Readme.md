@@ -2,8 +2,7 @@
 
 This is the repo for my business website located at https://notifi.us - a static site deployed by [Netlify](https://www.netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e4a9310-5e4d-4e5b-ab4d-28142cb2bb63/deploy-status)](https://app.netlify.com/sites/musing-franklin-d7ba2e/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e85c5b0-265c-473e-944e-336592388a52/deploy-status)](https://app.netlify.com/sites/elated-ptolemy-389429/deploys)
 # Workflow Steps
 
 Install composer dependencies, including `tightenco/jigsaw`

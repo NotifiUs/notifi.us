@@ -1,6 +1,6 @@
-# Personal Website
+# Business Website
 
-This is the repo for my personal website located at https://labbett.net - a static site deployed by [Netlify](https://www.netlify.com)
+This is the repo for my business website located at https://notifi.us - a static site deployed by [Netlify](https://www.netlify.com)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3e4a9310-5e4d-4e5b-ab4d-28142cb2bb63/deploy-status)](https://app.netlify.com/sites/musing-franklin-d7ba2e/deploys)
 
@@ -37,10 +37,3 @@ Build jigsaw site without re-running Laravel Mix everytime
 * [Font Awesome](https://fontawesome.com)
 * [unDraw](https://undraw.co)
 * [Netlify](https://www.netlify.com)
-
-# Custom Font Awesome
-
-Font Awesome is great, but when you're using limited icons there's no need for a 1.2MB compiled JS file. 
-
-So, to keep it small, I add individual icons into `source/_assets/js/fontawesome-custom.js`.
-

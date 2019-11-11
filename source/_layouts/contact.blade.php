@@ -3,7 +3,7 @@
     <div class="flex flex-wrap xl:w-10/12 w-full mx-auto">
         <div class="xl:w-3/5 lg:w-3/5 w-full">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-white shadow rounded xl:px-6  px-4 py-8">
+                <div class="bg-white shadow xl:px-6  px-4 py-8">
 
                     <h1 class="text-purple-600 font-bold text-4xl">Contact</h1>
 

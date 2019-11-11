@@ -1,3 +1,11 @@
+
+@foreach( $page->include_nav as $included_pages)
+  @php
+    $haystack[] = $included_pages;
+  @endphp
+@endforeach
+
+@if( in_array( $page->_meta->filename, $haystack ) )
 <nav>
   <div class="xl:px-32 px-4 py-4 flex justify-between items-center w-full bg-white">
     <div class="ml-0">
@@ -21,3 +29,4 @@
     </div>
   </div>
 </nav>
+@endif

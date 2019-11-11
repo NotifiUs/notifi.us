@@ -3,6 +3,10 @@
 return [
     'production' => true,
     'ga' => 'UA-51998637-1',
+    'include_nav' => [
+        'index',
+        'contact',
+    ],
     'services' => [
         [
             'image' => '/assets/images/coding.jpg',

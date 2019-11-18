@@ -1,8 +1,8 @@
 
-<div class="bg-gradient shadow mx-auto py-4">
-    <div class="flex flex-wrap md:flex-shrink max-w-8xl w-11/12 sm:w-11/12 md:w-11/12 lg:w-11/12 xl:w-11/12 mx-auto py-4">
+<div class="bg-gradient shadow mx-auto py-12">
+    <div class="flex flex-wrap md:flex-shrink max-w-8xl w-11/12 sm:w-11/12 md:w-11/12 lg:w-11/12 xl:w-11/12 mx-auto">
         
-        <div class="sm:my-0 md:my-16 lg:my-16 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
+        <div class="my-0 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
             <div class="mx-auto text-left align-middle">
                 <div class="bg-white shadow px-4 py-10">
 
@@ -35,9 +35,9 @@
                 </div>
             </div>
         </div>
-        <div class="sm:my-0 md:my-20 lg:my-16 w-full sm:w-full md:w-2/5 lg:w-2/5 xl:w-2/5">
+        <div class="my-0 w-full sm:w-full md:w-2/5 lg:w-2/5 xl:w-2/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-gray-200 shadow  px-4 xl:px-6 pt-8 py-8 text-center my-0 lg:my-4 ">
+                <div class="bg-gray-200 shadow  px-4 xl:px-6 py-8 text-center my-0 md:my-5 ">
                     <address class="font-bold text-gray-700 my-4">
                         <span class="text-2xl">NotifiUs, LLC</span>
                         <br>

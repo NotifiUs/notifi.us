@@ -37,7 +37,7 @@
         </div>
         <div class="my-0 w-full sm:w-full md:w-2/5 lg:w-2/5 xl:w-2/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-gray-200 shadow  px-4 xl:px-6 py-8 text-center my-0 md:my-5 ">
+                <div class="bg-gray-200 md:rounded md:rounded-tl-none md:rounded-bl-none  px-4 xl:px-6 py-8 text-center my-0 md:my-5 ">
                     <address class="font-bold text-gray-700 my-4">
                         <span class="text-2xl">NotifiUs, LLC</span>
                         <br>

@@ -1,9 +1,10 @@
 
-<div class="bg-gradient xl:py-16 py-8 w-full xl:px-24 lg:px-6 xs:px-4 sm:px-4 md:px-4  px-4 shadow-inner mx-auto">
-    <div class="flex flex-wrap xl:w-10/12 w-full mx-auto">
-        <div class="xl:w-3/5 lg:w-3/5 w-full">
+<div class="bg-gradient shadow-inner mx-auto">
+    <div class="flex flex-wrap md:flex-shrink max-w-8xl w-auto sm:w-auto w-11/12 sm:w-10/12 md:w-10/12 lg:w-10/12 xl:w-10/12 mx-auto py-4">
+        
+        <div class="sm:my-0 md:my-16 lg:my-16 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-white shadow xl:px-6  px-4 py-8">
+                <div class="bg-white shadow px-4 py-10">
 
                     <h1 class="text-purple-600 font-bold text-4xl">Contact</h1>
 
@@ -19,38 +20,24 @@
                     </p>
 
                     <div class="flex flex-wrap justify-center">
-                        <a alt="Call us!" class="rounded-lg block text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="tel:+1 888-966-9830">
+                        <a alt="Call us!" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="tel:+1 888-966-9830">
                             <i class="fas fa-phone-square text-purple-300"></i> Give us a call
                         </a>
 
-                        <a alt="NotifiUs, LLC" class="rounded-lg block text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="mailto:support@notifi.us">
+                        <a alt="NotifiUs, LLC" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="mailto:support@notifi.us">
                             <i class="fas fa-envelope-square text-purple-300"></i> Send an email
                         </a>
                     </div>
 
-                    <p class="text-gray-600 text-sm block my-4">
+                    <p class="text-indigo-600 text-sm block my-4 text-center">
                         You can also send us messages on our social media accounts!
                     </p>
-
-                    <!--
-                    <hr class="my-4">
-
-                    <p class="text-gray-600">
-                        Subscribe to the NotifiUs <strong class="uppercase text-purple-600">Call</strong><strong class="uppercase text-blue-500">Theory</strong> newsletter!
-                    </p>
-
-                    <a alt="NotifiUs, LLC" class="justify-center mx-auto w-auto block hover:bg-purple-400 text-purple-900 hover:text-purple-100 text-lg uppercase px-5 py-3 bg-purple-200 inline-block my-4 rounded-lg shadow font-bold" href="https://mailchi.mp/f9431b8b1b6d/call-theory">
-                        <i class="fas fa-newspaper text-purple-600"></i> Subscribe to our newsletter
-                    </a>
-                    -->
-
-
                 </div>
             </div>
         </div>
-        <div class="xl:w-2/5 lg:w-2/5 w-full">
+        <div class="sm:my-0 md:my-20 lg:my-16 w-full sm:w-full md:w-2/5 lg:w-2/5 xl:w-2/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-gray-200 shadow rounded lg:rounded-tl-none lg:rounded-bl-none xl:rounded-tl-none xl:rounded-bl-none xl:px-6 px-4 pt-8 py-8 text-center my-4">
+                <div class="bg-gray-200 shadow  px-4 xl:px-6 pt-8 py-8 text-center my-0 lg:my-4 ">
                     <address class="font-bold text-gray-700 my-4">
                         <span class="text-2xl">NotifiUs, LLC</span>
                         <br>
@@ -66,22 +53,24 @@
                     <i class="fas fa-phone text-gray-400 text-sm"></i> <a class="text-gray-700" href="tel:+1 614-682-7015">+1 614-682-7015</a>
                     <hr class="my-2">
                     <i class="fas fa-envelope text-gray-400 text-sm"></i> <a class="font-bold text-purple-600 hover:text-purple-800 text-lg" href="mailto:support@notifi.us">support@notifi.us</a>
-                    <br class="mb-6">
-                    <a title="Find us on Facebook" class="text-blue-600 hover:text-blue-700" href="https://www.facebook.com/NotifiUsConsulting">
-                        <i class="fab fa-facebook"></i>
-                    </a>
+                    <div class="mt-6">
+                        <a title="Find us on Facebook" class="text-blue-600 hover:text-blue-700 mx-1" href="https://www.facebook.com/NotifiUsConsulting">
+                            <i class="fab fa-facebook"></i>
+                        </a>
 
-                    <a title="Follow us on Twitter" class="text-blue-400 hover:text-blue-500" href="https://twitter.com/notifius">
-                        <i class="fab fa-twitter"></i>
-                    </a>
+                        <a title="Follow us on Twitter" class="text-blue-400 hover:text-blue-500 mx-1" href="https://twitter.com/notifius">
+                            <i class="fab fa-twitter"></i>
+                        </a>
 
-                    <a title="Join us on LinkedIn!" class="text-blue-700 hover:text-blue-800" href="https://www.linkedin.com/company/notifius">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
+                        <a title="Join us on LinkedIn!" class="text-blue-700 hover:text-blue-800 mx-1" href="https://www.linkedin.com/company/notifius">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
 
-                    <a title="Open source on Github" class="text-gray-600 hover:text-gray-700" href="https://github.com/notifius">
-                        <i class="fab fa-github"></i>
-                    </a>
+                        <a title="Open source on Github" class="text-gray-600 hover:text-gray-700 mx-1" href="https://github.com/notifius">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </div>
+                    
 
                 </div>
             </div>

@@ -1,5 +1,5 @@
 
-<div class="bg-gradient shadow-inner mx-auto">
+<div class="bg-gradient shadow-inner mx-auto py-4">
     <div class="flex flex-wrap md:flex-shrink max-w-8xl w-auto sm:w-auto w-11/12 sm:w-10/12 md:w-10/12 lg:w-10/12 xl:w-10/12 mx-auto py-4">
         
         <div class="sm:my-0 md:my-16 lg:my-16 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">

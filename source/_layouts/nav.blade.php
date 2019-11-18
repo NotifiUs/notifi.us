@@ -7,14 +7,14 @@
 
 @if( in_array( $page->_meta->filename, $haystack ) )
 <nav>
-  <div class="py-4 justify-between items-center w-full bg-white px-2">
+  <div class="py-4 justify-between items-center w-full bg-white px-2 shadow">
     <div class="flex flex-wrap xl:max-w-8xl lg:max-w-6xl mx-auto">
-      <div class="w-1/2 text-left">
-        <a href="/" class="ml-0" title="NotifiUs, LLC" alt="NotifiUs, LLC">
+      <div class="w-2/12 hover:cursor-auto text-left">
+        <a href="/" title="NotifiUs, LLC" alt="NotifiUs, LLC">
           <img src="/assets/images/notifius.png" style="min-width:202px;width:202px;height:43px;">
         </a>
       </div>
-      <div class="w-1/2 text-right align-middle">
+      <div class="w-10/12 text-right align-middle mr-0">
         <ul class="inline-flex align-middle">
           <li>
             <a title="Home" alt="Home" class="@if( $page->_meta->filename == 'index') {{ ' text-indigo-700 ' }} @else {{ ' text-gray-700 ' }}@endif xl:px-4 px-2 hover:text-purple-700 font-bold" href="/">

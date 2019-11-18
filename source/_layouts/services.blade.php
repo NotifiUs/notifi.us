@@ -1,6 +1,6 @@
 
 
-<div class="py-16 lg:w-10/12 md:w-10/12 sm:w-full xs:w-full px-4 mx-auto">
+<div class="py-16 w-full px-4 mx-auto shadow">
     <div class="flex flex-wrap  max-w-8xl mx-auto">
         <div class="lg:w-1/3 w-full px-4">
             <h3 class="text-purple-600 font-bold text-4xl">Our Experience</h3>

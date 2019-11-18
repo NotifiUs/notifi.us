@@ -1,6 +1,6 @@
 
-<div class="bg-gradient shadow-inner mx-auto py-4">
-    <div class="flex flex-wrap md:flex-shrink max-w-8xl w-auto sm:w-auto w-11/12 sm:w-10/12 md:w-10/12 lg:w-10/12 xl:w-10/12 mx-auto py-4">
+<div class="bg-gradient shadow mx-auto py-4">
+    <div class="flex flex-wrap md:flex-shrink max-w-8xl w-11/12 sm:w-11/12 md:w-11/12 lg:w-11/12 xl:w-11/12 mx-auto py-4">
         
         <div class="sm:my-0 md:my-16 lg:my-16 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
             <div class="mx-auto text-left align-middle">
@@ -20,11 +20,11 @@
                     </p>
 
                     <div class="flex flex-wrap justify-center">
-                        <a alt="Call us!" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="tel:+1 888-966-9830">
+                        <a alt="Call us!" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto w-10/12 lg:w-5/12" href="tel:+1 888-966-9830">
                             <i class="fas fa-phone-square text-purple-300"></i> Give us a call
                         </a>
 
-                        <a alt="NotifiUs, LLC" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto" href="mailto:support@notifi.us">
+                        <a alt="NotifiUs, LLC" class="rounded-lg block text-lg uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto w-10/12 lg:w-5/12" href="mailto:support@notifi.us">
                             <i class="fas fa-envelope-square text-purple-300"></i> Send an email
                         </a>
                     </div>

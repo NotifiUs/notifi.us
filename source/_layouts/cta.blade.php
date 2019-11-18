@@ -1,4 +1,4 @@
-<div class="bg-purple-700 w-full shadow-inner mx-auto text-center py-20">
+<div class="bg-purple-700 w-full shadow mx-auto text-center py-20">
 
     <h3 class="text-4xl font-black text-purple-100 mt-2 px-2">Ready to level up?</h3>
 

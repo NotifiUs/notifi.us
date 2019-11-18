@@ -1,5 +1,5 @@
 
-<div class="bg-gradient py-2 w-full px-4 shadow-inner mx-auto">
+<div class="bg-gradient py-8 lg:py-16 w-full px-4 shadow mx-auto">
     <div class="flex flex-wrap max-w-8xl mx-auto">
         <div class="lg:w-3/5 w-full px-4 max-w-3xl mx-auto">
             <div class="container mx-auto text-center align-middle">
@@ -17,7 +17,7 @@
         <div class="lg:w-2/5 w-full">
             <div class="container mx-auto text-center lg:text-left max-w-xl">
                 <div class="w-100">
-                    <img class="w-auto mx-auto mb-6" src="/assets/images/innovation.png" title="NotifiUs, LLC" alt="NotifiUs, LLC">
+                    <img class="w-auto mx-auto" src="/assets/images/innovation.png" title="NotifiUs, LLC" alt="NotifiUs, LLC">
                 </div>
             </div>
         </div>

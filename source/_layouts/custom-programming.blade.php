@@ -1,4 +1,4 @@
-<div class="bg-gradient-alt pt-16 pb-24 w-full px-4 shadow-inner">
+<div class="bg-gradient-alt pt-16 pb-24 w-full px-4 shadow">
     <div class="flex flex-wrap max-w-8xl mx-auto">
         <div class="xl:w-5/12 lg:w-1/2 w-full">
 
@@ -13,7 +13,7 @@
 
         <div class="xl:w-7/12 lg:w-1/2 w-full px-4">
 
-            <div class="container mx-auto text-left max-w-xl">
+            <div class="container mx-auto text-center lg:text-left max-w-xl">
 
                 <h1 class="text-white text-left font-extrabold text-4xl font-sans my-4">
                     Custom Software Development

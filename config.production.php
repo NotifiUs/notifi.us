@@ -3,6 +3,7 @@
 return [
     'production' => true,
     'ga' => 'UA-51998637-1',
+    'year' => date('Y'),
     'include_nav' => [
         'index',
         'contact',

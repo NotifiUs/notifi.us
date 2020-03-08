@@ -19,7 +19,7 @@
         <meta property="og:site_name" content="notifi.us">
         <meta property="og:title" content="NotifiUs, LLC">
         <meta property="og:description" content="Technical consulting, software development, and documentation for call centers.">
-        <meta property="og:image" content="https://notifi.us/assets/images/innovations.png">
+        <meta property="og:image" content="https://notifi.us/assets/images/innovation.png">
         <meta property="og:url" content="https://notifi.us">
         <meta property="og:type" content="website">
         <meta property="og:image:alt" content="Level up your call center">

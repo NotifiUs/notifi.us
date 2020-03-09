@@ -2,7 +2,7 @@
 
 return [
     'production' => true,
-    'ga' => 'UA-51998637-1',
+    'ga' => 'UA-39918528-2',
     'year' => date('Y'),
     'include_nav' => [
         'index',

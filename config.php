@@ -8,6 +8,7 @@ return [
     'year' => date('Y'),
     'include_nav' => [
         'index',
+        'services',
         'contact',
     ],
     'services' => [
@@ -24,7 +25,7 @@ return [
         [
             'image' => '/assets/images/docs.jpg',
             'title' => 'Documentation',
-            'description' => 'Not only do we provide documentation, but it’s online, highly-available, and searchable.'
+            'description' => 'Beautiful, searchable documentation available online all the time.'
         ],
         [
             'image' => '/assets/images/apps.jpg',

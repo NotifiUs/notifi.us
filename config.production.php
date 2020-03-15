@@ -6,6 +6,7 @@ return [
     'year' => date('Y'),
     'include_nav' => [
         'index',
+        'services',
         'contact',
     ],
     'services' => [

@@ -4,7 +4,7 @@
 
             <div class="container mx-auto text-center max-w-xl xl:ml-0">
                 <div class="w-100">
-                    <img class="w-auto mx-auto my-4" src="/assets/images/programming_code.png" title="NotifiUs, LLC" alt="NotifiUs, LLC">
+                    <img class="w-auto mx-auto my-4" src="/assets/images/programming_code.png" title="Build out your dream product &mdash; we can help!" alt="NotifiUs, LLC">
                 </div>
             </div>
 
@@ -22,12 +22,12 @@
                 <h4 class="border-b-4 border-purple-700 w-2/12 my-4"></h4>
 
                 <div class="inline-block text-xl text-blue-100 text-left">
-                    We can help you develop applications that streamline and automate common tasks for your operators and staff.
+                    We develop custom applications to streamline and automate common tasks for your operators and staff.
                     <br><br>
-                    Or we can focus on your clients, creating data-rich web portals specific to their vertical as a value add tool in your call center’s lineup.
+                    Ready to level up your web portals? Data-rich web applications tailored to your customer's needs.
                 </div>
 
-                <a alt="NotifiUs, LLC" class="rounded-lg text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="/contact">
+                <a title="Request a quote" alt="NotifiUs, LLC" class="rounded-lg text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="/contact">
                     <i class="fas fa-file-invoice text-purple-300"></i> Request a quote
                 </a>
 

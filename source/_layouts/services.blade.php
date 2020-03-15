@@ -6,10 +6,10 @@
             <h3 class="text-purple-600 font-bold text-4xl">Our Experience</h3>
             <h4 class="border-b-4 border-purple-700 w-2/12 my-4"></h4>
             <h5 class="text-gray-800 font-bold text-2xl">
-                Over 15 years of experience in the call center industry
+                15+ years of industry experience
             </h5>
-            <p class="text-gray-600 font-normal text-xl my-8">
-                Having managed and worked with companies of all sizes, we have a broad range of experience working with call centers to manage their technology infrastructure, call taking operations, and software integrations.
+            <p class="text-gray-500 font-normal text-xl my-8">
+                We have a broad range of experience working with call centers of all sizes to manage their technology infrastructure, call taking operations, and software integrations.
             </p>
         </div>
         <div class="lg:w-2/3 w-full">

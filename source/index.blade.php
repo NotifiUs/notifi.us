@@ -1,5 +1,5 @@
 @extends('_layouts.master')
-@section('title', 'Welcome')
+@section('title', 'Level up your call center')
 @section('body')
 
 @include('_layouts.hero')

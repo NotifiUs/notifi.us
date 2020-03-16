@@ -89,7 +89,7 @@
             <h3 class="text-indigo-700 text-left text-xl font-bold flex-row w-full max-w-2xl mx-0 mb-3">Prefer contact forms?</h3>
             <div class="flex-row w-full md:w-1/2 px-3">
                 <div class="mb-4">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
+                    <label class="block text-gray-700 text-sm font-bold mb-2" for="message">
                         How can we help?
                     </label>
                     <textarea class="h-48 shadow appearance-none border rounded w-full max-w-md py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"

@@ -63,7 +63,7 @@
                         </a>
 
                         <small class="block my-5 text-gray-500">
-                            <i class="fas fa-meteor text-indigo-400"></i> Available exclusively in <span class="font-semibold">Call Theory Universe</span> bundle
+                            <i class="fas fa-meteor text-indigo-400"></i> Included in <span class="font-semibold">Call Theory Universe</span> bundle
                         </small>
                     </div>
                 </div>
@@ -349,7 +349,7 @@
                         </a>
 
                         <small class="block my-5 text-gray-500">
-                            20% revenue donated to NAEO Relief Fund
+                            20% revenue contributed to NAEO Relief Fund
                         </small>
                     </div>
                 </div>

@@ -8,7 +8,7 @@
 @if( in_array( $page->_meta->filename, $haystack ) )
 <nav>
   <div class="py-4 justify-between items-center w-full bg-white px-2 shadow">
-    <div class="flex flex-wrap xl:max-w-8xl lg:max-w-6xl mx-auto">
+    <div class="flex flex-wrap xl:max-w-6xl lg:max-w-6xl mx-auto">
       <div class="w-2/12 hover:cursor-auto text-left">
         <a href="/" title="Level up your call center!" alt="NotifiUs, LLC">
           <img src="/assets/images/notifius.png" style="min-width:202px;width:202px;height:43px;">

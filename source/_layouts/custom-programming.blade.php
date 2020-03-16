@@ -1,5 +1,5 @@
 <div class="bg-gradient-alt pt-16 pb-24 w-full px-4 shadow">
-    <div class="flex flex-wrap max-w-8xl mx-auto">
+    <div class="flex flex-wrap max-w-6xl mx-auto">
         <div class="xl:w-5/12 lg:w-1/2 w-full">
 
             <div class="container mx-auto text-center max-w-xl xl:ml-0">
@@ -40,7 +40,7 @@
 
 
 <div class="lg:w-10/12 w-full px-4 mx-auto">
-    <div class="flex flex-wrap max-w-8xl mx-auto">
+    <div class="flex flex-wrap max-w-6xl mx-auto">
         <div class="md:flex lg:w-5/12 md:w-8/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-20">
 
             <img class="mx-auto sm:mx-auto md:mx-0 lg:mx-0 xl:mx-0" style="height:64px;" src="/assets/images/shield.jpg" alt="NAEO Preferred Vendor">

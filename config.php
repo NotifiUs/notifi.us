@@ -10,6 +10,7 @@ return [
         'index',
         'services',
         'contact',
+        'thank-you'
     ],
     'services' => [
         [

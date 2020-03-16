@@ -1,7 +1,7 @@
 
 
 <div class="py-16 w-full px-4 mx-auto shadow">
-    <div class="flex flex-wrap  max-w-8xl mx-auto">
+    <div class="flex flex-wrap  max-w-6xl mx-auto">
         <div class="lg:w-1/3 w-full px-4">
             <h3 class="text-purple-600 font-bold text-4xl">Our Experience</h3>
             <h4 class="border-b-4 border-purple-700 w-2/12 my-4"></h4>

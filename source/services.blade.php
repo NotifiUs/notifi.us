@@ -14,8 +14,8 @@
     <div class="container my-12 mx-auto max-w-5xl">
 
         <div class="flex flex-wrap text-center">
-            <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-extrabold">
-               Call Theory Universe
+            <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-bold">
+               Call Theory Universe &middot; <span class="text-gray-400">A set of subscription services that can be purchased individually or bundled</span>
             </h5>
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 border border-indigo-200 h-full bg-indigo-100 rounded shadow">
@@ -45,7 +45,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2  fa-5x fa-book text-purple-500"></i>
+                    <i class="fas my-2  fa-5x fa-book text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Theory Documentation
                     </h5>
@@ -55,11 +55,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Subscribe
+                        <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn More
+                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -71,7 +71,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-life-ring text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-life-ring text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Theory Support
                     </h5>
@@ -81,11 +81,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Subscribe
+                        <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn More
+                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -97,7 +97,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-clipboard-check text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-clipboard-check text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Hourly Check
                     </h5>
@@ -107,11 +107,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://hourlycheck.com" alt="Sign up at hourlycheck.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Subscribe
+                        <a href="https://hourlycheck.com" alt="Sign up at hourlycheck.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://hourlycheck.com" alt="Learn more about Hourly Check" class="rounded-lg mx-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn More
+                        <a href="https://hourlycheck.com" alt="Learn more about Hourly Check" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -123,7 +123,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-sms text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-sms text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         WCTP Gateway
                     </h5>
@@ -133,11 +133,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://wctp.io" alt="Learn more at wctp.io" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn More
+                        <a href="https://wctp.io" alt="Learn more at wctp.io" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-indigo-300"></i> Learn More
                         </a>&nbsp;
-                        <a href="https://github.com/NotifiUs/wctp-gateway" alt="View code on Github" class="rounded-lg mx-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> View Code
+                        <a href="https://github.com/NotifiUs/wctp-gateway" alt="View code on Github" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-code-branch text-blue-300"></i> View Code
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -149,7 +149,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-chart-pie text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-chart-pie text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center KPI Dashboard
                     </h5>
@@ -159,8 +159,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://callcenterkpi.com" alt="Learn more at callcenterkpi.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Schedule Demo
+                        <a href="https://callcenterkpi.com" alt="Learn more at callcenterkpi.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-calendar text-indigo-300"></i> Schedule Demo
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -172,7 +172,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-microscope text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-microscope text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Technical Skill Assessment
                     </h5>
@@ -182,11 +182,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Buy Now
+                        <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Now
                         </a>&nbsp;
-                        <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn More
+                        <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -198,7 +198,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas my-2 fa-5x fa-shopping-cart text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-shopping-cart text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Scripting
                     </h5>
@@ -208,11 +208,11 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://store.calltheory.com/collections/scripting" alt="Buy at store.calltheory.com" class="block lg:inline whitespace-no-wrap rounded-lg mx-auto w-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold">
-                            <i class="fas fa-check-circle text-purple-300"></i> Buy Scripting
+                        <a href="https://store.calltheory.com/collections/scripting" alt="Buy at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Scripting
                         </a>&nbsp;
-                        <a href="https://store.calltheory.com/collections/artwork" alt="Browse art for your office" class="block lg:inline whitespace-no-wrap rounded-lg mx-auto w-auto text-sm uppercase text-purple-300 shadow bg-gray-100 px-4 py-2 hover:bg-purple-200 hover:text-purple-600 font-bold">
-                            <i class="fas fa-info-circle text-purple-300"></i> Browse Artwork
+                        <a href="https://store.calltheory.com/collections/artwork" alt="Browse art for your office" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-palette text-blue-300"></i> Browse Artwork
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -229,11 +229,11 @@
 
         <div class="flex flex-wrap text-center max-w-5xl mx-auto px-2">
             <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-extrabold">
-               Consulting, Engineering, Development
+                Call Center Technical Help &middot; <span class="text-gray-400">Information technology consulting, engineering, and development</span>
             </h5>
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas my-2 fa-5x fa-cloud text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-cloud text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Cloud Services
                     </h5>
@@ -244,7 +244,7 @@
 
                     <div class="mt-4">
                         <a href="/cloud" alt="Learn about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -256,7 +256,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas my-2 fa-5x fa-globe text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-globe text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Genesis Migration
                     </h5>
@@ -267,7 +267,7 @@
 
                     <div class="mt-4">
                         <a href="/genesis" alt="Learn about Genesis migrations" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -279,7 +279,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas my-2 fa-5x fa-code text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-code text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Software Development
                     </h5>
@@ -290,7 +290,7 @@
 
                     <div class="mt-4">
                         <a href="/custom" alt="Learn about custom software development" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -302,7 +302,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas my-2 fa-5x fa-headset text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-headset text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Telephony Setup
                     </h5>
@@ -313,7 +313,7 @@
 
                     <div class="mt-4">
                         <a href="/telecom" alt="Learn about telephony support" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -329,12 +329,12 @@
         <div class="flex flex-wrap text-center max-w-5xl mx-auto px-2">
 
             <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-extrabold">
-                Stand-Alone Services
+                Stand-Alone Services &middot; <span class="text-gray-400">Unique products and services to help you level up</span>
             </h5>
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3">
-                <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas my-2 fa-5x fa-gift text-gray-500"></i>
+                <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
+                    <i class="fas my-2 fa-5x fa-gift text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Trunk
                     </h5>
@@ -344,8 +344,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://callcentertrunk.com" alt="Learn more at callcentertrunk.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                        <a href="https://callcentertrunk.com" alt="Learn more at callcentertrunk.com" class="rounded-lg mx-auto text-sm uppercase text-blue-100 shadow bg-blue-700 px-4 py-2 hover:bg-blue-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -356,8 +356,8 @@
             </div>
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3">
-                <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas my-2 fa-5x fa-user-ninja text-gray-500"></i>
+                <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
+                    <i class="fas my-2 fa-5x fa-user-ninja text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Security Awareness Training
                     </h5>
@@ -367,8 +367,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://tas.ninja" alt="Learn more at tasninja.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                        <a href="https://tas.ninja" alt="Learn more at tasninja.com" class="rounded-lg mx-auto text-sm uppercase text-blue-100 shadow bg-blue-700 px-4 py-2 hover:bg-blue-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -379,8 +379,8 @@
             </div>
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
-                <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas my-2 fa-5x fa-key text-gray-500"></i>
+                <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
+                    <i class="fas my-2 fa-5x fa-key text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         NotifiUs Encrypt
                     </h5>
@@ -390,8 +390,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://encrypt.notifi.us" alt="Learn more at encrypt.notifi.us" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                        <a href="https://encrypt.notifi.us" alt="Learn more at encrypt.notifi.us" class="rounded-lg mx-auto text-sm uppercase text-blue-100 shadow bg-blue-700 px-4 py-2 hover:bg-blue-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -402,8 +402,8 @@
             </div>
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
-                <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas my-2 fa-5x fa-trophy text-gray-500"></i>
+                <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
+                    <i class="fas my-2 fa-5x fa-trophy text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Score
                     </h5>
@@ -413,8 +413,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://callcenterscore.com" alt="Learn more at callcenterscore.com" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-check-circle text-purple-300"></i> Learn more
+                        <a href="https://callcenterscore.com" alt="Learn more at callcenterscore.com" class="rounded-lg mx-auto text-sm uppercase text-blue-100 shadow bg-blue-700 px-4 py-2 hover:bg-blue-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn more
                         </a>
 
                         <small class="block my-5 text-gray-500">

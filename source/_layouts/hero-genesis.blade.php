@@ -1,5 +1,5 @@
 
-<div class="bg-gradient py-8 lg:py-16 w-full px-4 shadow mx-auto">
+<div class="bg-gradient py-8 lg:py-16 w-full px-4 shadow mx-auto h-screen">
     <div class="flex flex-wrap max-w-6xl mx-auto">
 
         <div class="w-full lg:w-3/5 px-4 max-w-2xl mx-auto">

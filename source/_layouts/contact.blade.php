@@ -6,18 +6,11 @@
 
         <div class="my-0 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-white shadow px-4 py-10">
+                <div id="contactform" class="bg-white shadow px-4 py-10">
 
                     <h1 class="text-purple-600 font-bold text-4xl">Contact</h1>
 
                     <h4 class="border-b-4 border-purple-700 w-2/12 my-4"></h4>
-
-                    <!--
-                    <p class="text-gray-600">
-                        We don't use a traditional contact form: <strong>spam</strong>, un-necessary <strong>data collection</strong>, and <strong>awkward forms</strong>?
-                        <span class="font-bold text-indigo-600">No thanks.</span>
-                    </p>
-                    -->
 
                     <p class="text-indigo-700 text-xl block my-2">
                         The best way to contact us is by <strong>email</strong> or <strong>phone</strong>.

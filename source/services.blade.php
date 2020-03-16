@@ -32,7 +32,7 @@
                         <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
@@ -58,7 +58,7 @@
                         <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
@@ -84,7 +84,7 @@
                         <a href="https://calltheory.com/register" alt="Sign up at calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://calltheory.com" alt="Learn more about Call Theory" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
@@ -110,7 +110,7 @@
                         <a href="https://hourlycheck.com" alt="Sign up at hourlycheck.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-check-circle text-indigo-300"></i> Subscribe
                         </a>&nbsp;
-                        <a href="https://hourlycheck.com" alt="Learn more about Hourly Check" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://hourlycheck.com" alt="Learn more about Hourly Check" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
@@ -136,7 +136,7 @@
                         <a href="https://wctp.io" alt="Learn more at wctp.io" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-indigo-300"></i> Learn More
                         </a>&nbsp;
-                        <a href="https://github.com/NotifiUs/wctp-gateway" alt="View code on Github" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://github.com/NotifiUs/wctp-gateway" alt="View code on Github" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-code-branch text-blue-300"></i> View Code
                         </a>
 
@@ -185,7 +185,7 @@
                         <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Now
                         </a>&nbsp;
-                        <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
@@ -211,7 +211,7 @@
                         <a href="https://store.calltheory.com/collections/scripting" alt="Buy at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Scripting
                         </a>&nbsp;
-                        <a href="https://store.calltheory.com/collections/artwork" alt="Browse art for your office" class="rounded-lg mx-auto text-sm uppercase text-blue-300 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
+                        <a href="https://store.calltheory.com/collections/artwork" alt="Browse art for your office" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-palette text-blue-300"></i> Browse Artwork
                         </a>
 

@@ -7,19 +7,14 @@
 
                 <h1 class="text-white text-4xl  mb-0 mt-6">
                     @include('_layouts.universe-logo')
-
                 </h1>
 
-                <div class="inline-block text-2xl text-white">
-                    Everything you need to level up your call center
-                </div>
-
                 <h2 class="text-white font-black text-xl uppercase font-sans my-2">
-                    <span class="font-bold text-yellow-300">Premium Subscription Bundle Includes:</span>
+                    <span class="font-bold text-blue-200">Premium Subscription Bundle Includes:</span>
                 </h2>
 
                 <!-- lg:flex-row || lg:flex-col w-auto lg:w-1/2 -->
-                <div class="text-indigo-200 font-semibold my-3">
+                <div class="text-indigo-100 font-semibold my-3">
                     <div class="flex flex-wrap">
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
                             Technical documentation
@@ -56,7 +51,7 @@
                         <i class="fas fa-star text-purple-300"></i> Subscribe Now
                     </a>
 
-                    <small class="block text-blue-200 my-5">Level up your call center</small>
+                    <small class="block text-yellow-300 my-5">Level up your call center</small>
                 </div>
 
             </div>

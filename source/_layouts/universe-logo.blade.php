@@ -1,3 +1,3 @@
-<span class="text-purple-900 uppercase font-extrabold font-sans">
-    CallTheory <span class="whitespace-no-wrap"><i class="fas fa-meteor text-white"></i> <span class="text-indigo-300">Universe</span></span>
+<span class="text-white uppercase font-extrabold font-sans">
+    CallTheory <span class="whitespace-no-wrap"><i class="fas fa-meteor text-yellow-300"></i> <span class="text-white">Universe</span></span>
 </span>

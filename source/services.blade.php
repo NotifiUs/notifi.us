@@ -19,7 +19,7 @@
             </h5>
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 border border-indigo-200 h-full bg-indigo-100 rounded shadow">
-                    <i class="fas fa-5x fa-meteor text-indigo-500"></i>
+                    <i class="fas my-2 fa-5x fa-meteor text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Theory Universe
                     </h5>
@@ -45,7 +45,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-book text-purple-500"></i>
+                    <i class="fas my-2  fa-5x fa-book text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Theory Documentation
                     </h5>
@@ -71,7 +71,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-life-ring text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-life-ring text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Theory Support
                     </h5>
@@ -97,7 +97,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-clipboard-check text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-clipboard-check text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Hourly Check
                     </h5>
@@ -123,7 +123,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-sms text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-sms text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         WCTP Gateway
                     </h5>
@@ -149,7 +149,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-chart-pie text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-chart-pie text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center KPI Dashboard
                     </h5>
@@ -172,7 +172,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-microscope text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-microscope text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Technical Skill Assessment
                     </h5>
@@ -198,7 +198,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
-                    <i class="fas fa-5x fa-shopping-cart text-purple-500"></i>
+                    <i class="fas my-2 fa-5x fa-shopping-cart text-purple-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Scripting
                     </h5>
@@ -233,7 +233,7 @@
             </h5>
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas fa-5x fa-cloud text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-cloud text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Cloud Services
                     </h5>
@@ -256,7 +256,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas fa-5x fa-globe text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-globe text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Genesis Migration
                     </h5>
@@ -279,7 +279,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas fa-5x fa-code text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-code text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Software Development
                     </h5>
@@ -302,7 +302,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-100 rounded shadow border border-purple-300 h-full">
-                    <i class="fas fa-5x fa-headset text-blue-500"></i>
+                    <i class="fas my-2 fa-5x fa-headset text-blue-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Telephony Setup
                     </h5>
@@ -334,7 +334,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3">
                 <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas fa-5x fa-gift text-gray-500"></i>
+                    <i class="fas my-2 fa-5x fa-gift text-gray-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Trunk
                     </h5>
@@ -357,7 +357,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3">
                 <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas fa-5x fa-user-ninja text-gray-500"></i>
+                    <i class="fas my-2 fa-5x fa-user-ninja text-gray-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Security Awareness Training
                     </h5>
@@ -380,7 +380,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas fa-5x fa-key text-gray-500"></i>
+                    <i class="fas my-2 fa-5x fa-key text-gray-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         NotifiUs Encrypt
                     </h5>
@@ -403,7 +403,7 @@
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-gray-200 rounded shadow border border-gray-400 h-full">
-                    <i class="fas fa-5x fa-trophy text-gray-500"></i>
+                    <i class="fas my-2 fa-5x fa-trophy text-gray-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
                         Call Center Score
                     </h5>

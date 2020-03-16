@@ -14,7 +14,7 @@
                     Everything you need to level up your call center
                 </div>
 
-                <h2 class="text-white font-black text-xl uppercase font-sans mt-0">
+                <h2 class="text-white font-black text-xl uppercase font-sans my-2">
                     <span class="font-bold text-yellow-300">Premium Subscription Bundle</span>
                 </h2>
 
@@ -29,10 +29,10 @@
                         </div>
 
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Managed SMS aggregator hosting
+                            Managed SMS aggregator
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Full access to scripting library
+                            Scripting library access
                         </div>
 
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">

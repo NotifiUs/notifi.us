@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost:3000',
     'collections' => [],
     'ga' => 'UA-39918528-2',
     'year' => date('Y'),

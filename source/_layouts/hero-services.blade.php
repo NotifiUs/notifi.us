@@ -15,7 +15,7 @@
 
                 <!-- lg:flex-row || lg:flex-col w-auto lg:w-1/2 -->
                 <div class="text-indigo-100 font-semibold my-3">
-                    <div class="flex flex-wrap">
+                    <div class="flex flex-wrap text-center">
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
                             Technical documentation
                         </div>
@@ -51,7 +51,7 @@
                         <i class="fas fa-star text-purple-300"></i> Subscribe Now
                     </a>
 
-                    <small class="block text-yellow-300 my-5">Level up your call center</small>
+                    <small class="block font-bold text-yellow-300 my-5">Level up your call center</small>
                 </div>
 
             </div>
@@ -59,7 +59,7 @@
         <div class="w-full lg:w-2/5 px-4">
             <div class="container mx-auto text-center lg:text-left max-w-xl">
                 <div class="w-100 mx-auto">
-                    <img class="w-auto mx-auto" src="/assets/images/startup.png" title="Level up with our premium subscription bundle" alt="Call Theory Universe Premium Subscription">
+                    <img class="w-full max-w-sm mx-auto" src="/assets/images/startup.svg" title="Level up with our premium subscription bundle" alt="Call Theory Universe Premium Subscription">
                 </div>
             </div>
         </div>

@@ -1,19 +1,8 @@
 @extends('_layouts.master')
-@section('title', 'Genesis')
+@section('title', 'Genesis Migration')
 @section('body')
 
-Genesis
-    how to get there roadmap
-    we can help with:
-        system config
-        consulting/advising
-        implementing
-        programming
-        sip/setup
-        migration from infinity
+    @include('_layouts.hero-genesis')
 
-    talk to amtelco field service
-    lets talk
 
-    not related to amtelco
 @endsection

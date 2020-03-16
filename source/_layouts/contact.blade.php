@@ -85,7 +85,7 @@
             <div class="flex-row w-full md:w-1/2 px-3">
                 <div class="mb-4">
                     <label class="block text-gray-700 text-sm font-bold mb-2" for="message">
-                        How can we help?
+                        Message
                     </label>
                     <textarea class="h-48 shadow appearance-none border rounded w-full max-w-md py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"
                               required name="message" id="message" placeholder="Enter your message here..."></textarea>

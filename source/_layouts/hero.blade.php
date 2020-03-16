@@ -20,7 +20,7 @@
         <div class="w-full lg:w-2/5 ">
             <div class="container mx-auto text-center lg:text-left max-w-xl">
                 <div class="w-100">
-                    <img class="mx-auto" src="/assets/images/innovation.png" title="Innovate with us!" alt="NotifiUs, LLC">
+                    <img class="mx-auto" src="/assets/images/innovation.svg" title="Innovate with us!" alt="NotifiUs, LLC">
                 </div>
             </div>
         </div>

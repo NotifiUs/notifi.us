@@ -18,7 +18,7 @@
 <div class="container px-4 max-w-lg mx-auto mt-6 text-center">
     <div class="w-100">
         <a href="/" class="text-indigo-300 hover:text-indigo-500">
-            <img class="w-64 max-w-sm mx-auto mb-4" src="/assets/images/notifications.png" title="Go home" alt="Not found">
+            <img class="w-64 max-w-sm mx-auto mb-4" src="/assets/images/notifications.svg" title="Go home" alt="Not found">
         </a>
     </div>
 </div>

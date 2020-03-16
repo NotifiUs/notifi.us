@@ -183,7 +183,7 @@
 
                     <div class="mt-4">
                         <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Now
+                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy À la carte
                         </a>&nbsp;
                         <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
@@ -209,7 +209,7 @@
 
                     <div class="mt-4">
                         <a href="https://store.calltheory.com/collections/scripting" alt="Buy at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy Scripting
+                            <i class="fas fa-shopping-bag text-indigo-300"></i> À la carte Scripting
                         </a>&nbsp;
                         <a href="https://store.calltheory.com/collections/artwork" alt="Browse art for your office" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-200 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-palette text-blue-300"></i> Browse Artwork
@@ -440,7 +440,7 @@
                     Service
                 </th>
                 <th class="p-2 whitespace-no-wrap">
-                    A-La-Carte
+                    À la carte
                 </th>
                 <th class="p-2">
                     Setup

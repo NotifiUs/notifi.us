@@ -1,7 +1,9 @@
 
-<div class="bg-gradient shadow mx-auto py-12">
-    <div class="flex flex-wrap md:flex-shrink max-w-6xl w-11/12 sm:w-11/12 md:w-11/12 lg:w-11/12 xl:w-11/12 mx-auto">
-        
+@include('_layouts.hero-contact')
+
+<div class="container mx-auto px-4 my-6 max-w-6xl">
+    <div class="flex flex-wrap md:flex-shrink max-w-6xl mx-auto">
+
         <div class="my-0 w-auto sm:w-auto md:w-3/5 lg:w-3/5 xl:w-3/5">
             <div class="mx-auto text-left align-middle">
                 <div class="bg-white shadow px-4 py-10">
@@ -23,7 +25,7 @@
 
                     <div class="flex flex-wrap justify-center">
                         <a title="Give us a call!" alt="+1 888-966-9830" class="rounded-lg block text-md uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-4 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto w-10/12 lg:w-5/12" href="tel:+1 888-966-9830">
-                            <i class="fas fa-phone text-purple-300"></i> Give us a call
+                            <i class="fas fa-mobile-alt text-purple-300"></i> Give us a call
                         </a>
 
                         <a title="Send us an email!" alt="support@notifi.us" class="rounded-lg block text-md uppercase text-center text-purple-100 inline-block shadow bg-purple-700 my-4 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold mx-auto w-10/12 lg:w-5/12" href="mailto:support@notifi.us">
@@ -58,23 +60,23 @@
         </div>
         <div class="my-0 w-full sm:w-full md:w-2/5 lg:w-2/5 xl:w-2/5">
             <div class="mx-auto text-left align-middle">
-                <div class="bg-gray-200 md:rounded md:rounded-tl-none md:rounded-bl-none  px-4 xl:px-6 pb-4 pt-2 md:py-8 text-center my-0 md:my-4 ">
-                    <address class="font-bold text-gray-700 my-4">
+                <div class="bg-purple-600 md:rounded md:rounded-tl-none md:rounded-bl-none pb-4 pt-2 md:py-8 text-center my-0 md:my-4 shadow-inner">
+                    <address class="font-bold text-white my-4">
                         <span class="text-2xl">NotifiUs, LLC</span>
                         <br>
-                        <span class="text-xl text-indigo-600">PO Box 2051</span>
+                        <span class="text-xl text-indigo-300">PO Box 2051</span>
                         <br>
-                        Dublin, Ohio 43017
+                        <span class="text-gray-100">Dublin, Ohio 43017</span>
                         <br>
-                        <span class="text-indigo-500">United State of America</span>
+                        <span class="text-indigo-200">United State of America</span>
                     </address>
-                    <div class="my-0 py-2 bg-gray-100">
-                        <i class="fas fa-envelope text-indigo-600 text-sm"></i> <a class="font-bold text-purple-600 hover:text-purple-800 text-lg" href="mailto:support@notifi.us">support@notifi.us</a>
+                    <div class="my-0 py-2 bg-purple-200">
+                        <i class="fas fa-envelope text-indigo-600 text-sm"></i> <a class="font-bold text-indigo-600 hover:text-indigo-800 text-lg" href="mailto:support@notifi.us">support@notifi.us</a>
                     </div>
-                    <div class="shadow my-0 py-2 bg-indigo-200">
+                    <div class="shadow my-0 py-2 bg-purple-300">
                         <i class="fas fa-phone text-indigo-600 text-sm"></i> <a class="text-gray-700 font-semibold" href="tel:+1 888-966-9830">+1 888-966-9830</a>
                     </div>
-                    <div class="shadow my-0 py-2 bg-indigo-300">
+                    <div class="shadow my-0 py-2 bg-purple-400">
                         <i class="fas fa-phone text-indigo-600 text-sm"></i> <a class="text-gray-700  font-semibold" href="tel:+1 614-682-7015">+1 614-682-7015</a>
                     </div>
                 </div>

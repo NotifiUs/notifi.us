@@ -6,11 +6,13 @@ return [
     'collections' => [],
     'ga' => 'UA-39918528-2',
     'year' => date('Y'),
+    'privacy_policy_updated_at' => date('r'),
     'include_nav' => [
         'index',
         'services',
         'contact',
         'thank-you',
+        'privacy',
     ],
     'services' => [
         [

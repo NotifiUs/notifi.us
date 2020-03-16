@@ -78,7 +78,7 @@
     </div>
 </div>
 
-<div class="container mx-auto px-4 max-w-3xl mt-4">
+<div class="container mx-auto px-4 max-w-3xl my-6">
     <form class="bg-gray-300 rounded shadow px-4 py-8 mx-auto max-w-md md:max-w-full" action="/thank-you" method="POST" name="notifi.us/contact" data-netlify="true">
         <div class="flex flex-wrap">
             <h3 class="text-indigo-700 text-left text-xl font-bold flex-row w-full max-w-2xl mx-0 mb-3">Prefer contact forms?</h3>

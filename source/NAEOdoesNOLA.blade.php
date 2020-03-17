@@ -4,7 +4,8 @@
     @include('_layouts.meta', [
     'meta_og_image' => $page->baseUrl . '/assets/images/naeo-does-nola-coaster.png',
     'meta_og_title' => 'NAEO 2020 Conference Giveaways',
-    'meta_og_description' => 'The conference is canceled, but the giveaways are on!'
+    'meta_og_description' => 'The conference is canceled, but the giveaways are on!',
+    'meta_og_url' => $page->baseUrl . '/NAEOdoesNOLA'
     ])
 @endpush
 @section('body')

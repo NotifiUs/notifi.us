@@ -97,11 +97,6 @@
                                name="address2" id="address2" type="text" placeholder="">
 
                     </div>
-                    <div class="flex items-start justify-between">
-                        <small class="text-gray-500 font-semibold">
-                            <i class="fas fa-info-circle text-indigo-300"></i> Availability is first come, first serve.
-                        </small>
-                    </div>
                 </div>
                 <div class="flex-row w-full md:w-1/2 px-3">
 
@@ -127,14 +122,15 @@
                         </label>
                         <input class="w-full max-w-md shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"
                                name="zip" id="zip" type="text" placeholder="">
-
                     </div>
 
                     <div class="flex items-start justify-between">
                         <button class="w-full max-w-md rounded-lg block uppercase text-center text-purple-100 shadow bg-purple-700 px-3 py-3 hover:bg-purple-900 hover:text-white font-bold" type="submit">
                             <i class="fas fa-smile text-purple-300"></i> Request stickers
                         </button>
-
+                    </div>
+                    <div class="flex flex-wrap mx-auto text-center text-xs my-2 text-gray-500 font-semibold">
+                        While supplies last. Approx. 200 total
                     </div>
                 </div>
             </div>

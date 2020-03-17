@@ -12,7 +12,7 @@
                 <a title="Contact us" alt="Contact us" class="rounded-lg block text-lg uppercase text-purple-100 inline-block shadow bg-purple-700 my-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="/contact">
                     <i class="fas fa-comments text-purple-300"></i> Let's Talk
                 </a>
-                <a title="Learn more about our services" alt="Learn more" class="rounded-lg block text-lg uppercase text-purple-500 inline-block shadow bg-white my-6 px-5 py-3 hover:bg-purple-200 hover:text-purple-700 font-bold" href="/services">
+                <a title="Learn more about our services" alt="Learn more" class="rounded-lg block text-lg uppercase text-purple-500 inline-block shadow bg-white my-6 px-5 py-3 hover:bg-purple-100 hover:text-purple-700 font-bold" href="/services">
                     <i class="fas fa-info-circle text-purple-400"></i> Learn More
                 </a>
             </div>

@@ -33,7 +33,7 @@
                            href="#stickerform">
                             <i class="fas fa-star text-purple-300"></i> Free stuff
                         </a>
-                        <small class="block text-yellow-300 my-5"><strong>Warning</strong>: Contains marketing stuff, too. <span class="text-yellow-100">( #sorrynotsorry )</span></small>
+                        <small class="block text-yellow-300 my-5"><strong>Warning</strong>: Contains marketing stuff, too. <span class="text-yellow-100 whitespace-no-wrap">( #sorrynotsorry )</span></small>
                     </div>
 
                     <div class="my-6 mx-auto text-center">
@@ -60,7 +60,7 @@
                 <div class="container mx-auto text-center lg:text-left max-w-xl">
                     <div class="w-100 mx-auto text-center">
                         <img class="w-full max-w-sm mx-auto" src="/assets/images/naeo-does-nola-coaster.png" title="Sadly cancelled, but you get a postcard and sticker from us!" alt="Call Theory Universe Premium Subscription">
-                        <span class="inline-block my-1 text-center mx-auto text-gray-300">Sorry, this is actually <strong>not</strong> the sticker you're getting.</span>
+                        <span class="inline-block font-semibold italic my-1 text-center mx-auto text-yellow-300">Sorry, this is <strong>not</strong> actually the sticker you're getting.</span>
                     </div>
                 </div>
             </div>

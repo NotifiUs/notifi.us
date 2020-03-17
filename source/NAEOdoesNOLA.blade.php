@@ -21,15 +21,19 @@
                     </h1>
 
                     <div class="inline-block text-2xl text-blue-100">
-                        This year's conference was cancelled due to Coronavirus, but we've still got some giveaways!
+                        This year's conference was canceled due to <strong class="font-semibold">COVID-19</strong>, but we've still got some free stuff and giveaways!
+                    </div>
+                    <div class="inline-block text-xl text-blue-200">
+                        Fill in your mailing address below and we'll send out a <strong class="font-semibold">NAEO 2020 New Orleans</strong>-themed postcard and NotifiUs sticker!
                     </div>
 
+
                     <div class="my-8">
-                        <a title="Contact info" class="inline rounded-lg mx-auto text-lg uppercase text-purple-100 shadow bg-purple-700 my-12 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
+                        <a title="Contact info" class="whitespace-no-wrap inline rounded-lg mx-auto text-lg uppercase text-purple-100 shadow bg-purple-700 my-12 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
                            href="#stickerform">
-                            <i class="fas fa-star text-purple-300"></i> Free Postcard &amp; Sticker
+                            <i class="fas fa-star text-purple-300"></i> Free stuff
                         </a>
-                        <small class="block text-yellow-300 my-5"><strong>Warning</strong>: Contains marketing stuff, too.</small>
+                        <small class="block text-yellow-300 my-5"><strong>Warning</strong>: Contains marketing stuff, too. <span class="text-yellow-100">( #sorrynotsorry )</span></small>
                     </div>
 
                     <div class="my-6 mx-auto text-center">
@@ -56,7 +60,7 @@
                 <div class="container mx-auto text-center lg:text-left max-w-xl">
                     <div class="w-100 mx-auto text-center">
                         <img class="w-full max-w-sm mx-auto" src="/assets/images/naeo-does-nola-coaster.png" title="Sadly cancelled, but you get a postcard and sticker from us!" alt="Call Theory Universe Premium Subscription">
-                        <span class="inline-block my-1 text-center mx-auto text-gray-300">Sorry, this is <strong>not</strong> the sticker you're getting.</span>
+                        <span class="inline-block my-1 text-center mx-auto text-gray-300">Sorry, this is actually <strong>not</strong> the sticker you're getting.</span>
                     </div>
                 </div>
             </div>
@@ -92,6 +96,11 @@
                         <input class="w-full max-w-md shadow appearance-none border rounded py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"
                                name="address2" id="address2" type="text" placeholder="">
 
+                    </div>
+                    <div class="flex items-start justify-between">
+                        <small class="text-gray-500 font-semibold">
+                            <i class="fas fa-info-circle text-indigo-300"></i> Availability is first come, first serve.
+                        </small>
                     </div>
                 </div>
                 <div class="flex-row w-full md:w-1/2 px-3">

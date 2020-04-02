@@ -5,40 +5,31 @@
         <div class="w-full lg:w-3/5 px-4 max-w-2xl mx-auto">
             <div class="container mx-auto text-center align-middle">
 
-                <h1 class="text-white text-4xl  mb-0 mt-6">
-                    @include('_layouts.universe-logo')
+                <h1 class="text-white text-6xl mb-0 mt-6 font-black">
+                   Call Theory
                 </h1>
 
                 <h2 class="text-white font-black text-xl uppercase font-sans my-2">
-                    <span class="font-bold text-blue-200">Premium Subscription Bundle Includes:</span>
+                    <span class="font-bold text-blue-200">Documentation, Scripting, and Support</span>
                 </h2>
 
                 <!-- lg:flex-row || lg:flex-col w-auto lg:w-1/2 -->
                 <div class="text-indigo-100 font-semibold my-3">
                     <div class="flex flex-wrap text-center">
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Technical documentation
+                            Technical documentation for call centers
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            <i class="italic">Done With You</i> support
-                        </div>
-
-                        <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Managed SMS aggregator
+                            Interactive <i class="italic">Done With You</i> support
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Scripting library access
-                        </div>
-
-                        <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Hourly delivery checks
+                            Unlimited scripting library access
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Technical skill evaluations
+                            A-la-carte emergency support
                         </div>
-
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Managed KPI dashboard
+                            Weekly virtual office hours
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
                             Request learning bounties

@@ -3,64 +3,55 @@
 
     <div class="flex flex-wrap py-4 max-w-6xl mx-auto">
         <div class="w-full text-center  my-4 flex-row lg:flex-col lg:w-1/3 mx-auto">
-            <h5 class="uppercase text-2xl font-black text-purple-700">Resources</h5>
+            <h5 class="uppercase text-2xl font-black text-purple-900">Resources</h5>
             <ul class="text-center  px-4">
                 <li class="my-1">
                     <i class="fas fa-newspaper text-purple-400"></i>
-                    <a class="hover:text-purple-500" href="https://mailchi.mp/f9431b8b1b6d/call-theory">Call Theory Newsletter</a>
+                    <a class="hover:text-purple-500" href="https://mailchi.mp/f9431b8b1b6d/call-theory">Our Newsletter</a>
                 </li>
                 <li class="my-1">
                     <i class="fas fa-shopping-cart  text-purple-400"></i>
-                    <a class="hover:text-purple-500"  href="https://store.calltheory.com">Call Scripting Store</a>
+                    <a class="hover:text-purple-500"  href="https://store.calltheory.com">Our Online Store</a>
                 </li>
                 <li class="my-1">
                     <i class="fab fa-github  text-purple-400"></i>
                     <a class="hover:text-purple-500"  href="https://github.com/NotifiUs">
-                        Github Code
+                        View code on Github
                     </a>
                 </li>
                 <li class="my-1">
-                    <i class="fas fa-envelope  text-purple-400"></i>
+                    <i class="fas fa-comments  text-purple-400"></i>
                     <a class="hover:text-purple-500" href="https://wctp.io">SMS Aggregator</a>
-                </li>
-                <li class="my-1">
-                    <i class="fas fa-life-ring  text-purple-400"></i>
-                    <a class="hover:text-purple-500" href="https://calltheory.com">Support & Docs</a>
                 </li>
             </ul>
         </div>
 
         <div class="my-4 w-full text-center  flex-row lg:flex-col lg:w-1/3 mx-auto">
-            <h5 class="uppercase text-2xl font-black text-purple-700">Services</h5>
+            <h5 class="uppercase text-2xl font-black text-purple-900">Services</h5>
             <ul class="text-center  px-4">
+                <li class="my-1">
+                    <i class="fas fa-life-ring  text-purple-400"></i>
+                    <a class="hover:text-purple-500" href="https://calltheory.com">Support, Scripting, &amp; Docs</a>
+                </li>
                <li class="my-1">
                     <i class="fas fa-chart-pie  text-purple-400"></i>
                     <a class="hover:text-purple-500" href="https://callcenterkpi.com">Real-time KPI Dashboard</a>
                 </li>
                <li class="my-1">
                     <i class="fas fa-gift  text-purple-400"></i>
-                    <a class="hover:text-purple-500" href="https://callcentertrunk.com">Call Center Trunk</a>
-                </li>
-               <li class="my-1">
-                    <i class="fas fa-clipboard-list  text-purple-400"></i>
-                    <a class="hover:text-purple-500"  href="https://hourlycheck.com">Hourly Delivery Checks</a>
+                    <a class="hover:text-purple-500" href="https://callcentertrunk.com">Employee Appreciation Gifts</a>
                 </li>
                <li class="my-1">
                     <i class="fas fa-user-ninja  text-purple-400"></i>
                     <a class="hover:text-purple-500"  href="https://tas.ninja">
-                        Security Awareness
+                        Security Awareness Training
                     </a>
-                </li>
-
-               <li class="my-1">
-                    <i class="fas fa-check-circle  text-purple-400"></i>
-                    <a class="hover:text-purple-500" href="https://callcenterscore.com">Call Center Scoring</a>
                 </li>
             </ul>
         </div>
 
         <div class="my-4 w-full text-center  flex-row lg:flex-col lg:w-1/3 mx-auto">
-            <h5 class="uppercase text-2xl font-black text-purple-700">Follow Us</h5>
+            <h5 class="uppercase text-2xl font-black text-purple-900">Follow Us</h5>
             <ul class="text-center  px-4">
                <li class="my-1">
                     <a class="hover:text-purple-500" href="https://www.facebook.com/NotifiUsConsulting">

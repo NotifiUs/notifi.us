@@ -14,18 +14,22 @@
     <div class="container my-12 mx-auto max-w-5xl">
 
         <div class="flex flex-wrap text-center">
+           <!--
             <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-bold">
-               Call Theory Universe &middot; <span class="text-gray-400">A set of subscription services that can be purchased individually or bundled</span>
+               Call Theory &middot; <span class="text-gray-400">Level up your call center with docs, support, and scripting.</span>
             </h5>
+            -->
+
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 border border-indigo-200 h-full bg-indigo-100 rounded shadow">
                     <i class="fas my-2 fa-5x fa-meteor text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
-                        Call Theory Universe
+                        Call Theory Level Up
                     </h5>
 
                     <p class="block text-indigo-500 text-center mb-6">
-                        Our premium support and services bundle.
+                        Our premium support and documentation bundle.
                     </p>
 
                     <div class="mt-4">
@@ -42,7 +46,9 @@
                     </div>
                 </div>
             </div>
+            -->
 
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
                     <i class="fas my-2  fa-5x fa-book text-indigo-500"></i>
@@ -68,7 +74,9 @@
                     </div>
                 </div>
             </div>
+            -->
 
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
                     <i class="fas my-2 fa-5x fa-life-ring text-indigo-500"></i>
@@ -94,7 +102,9 @@
                     </div>
                 </div>
             </div>
+            -->
 
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
                     <i class="fas my-2 fa-5x fa-clipboard-check text-indigo-500"></i>
@@ -120,6 +130,7 @@
                     </div>
                 </div>
             </div>
+            -->
 
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
@@ -141,7 +152,7 @@
                         </a>
 
                         <small class="block my-5 text-gray-500">
-                            <i class="fas fa-meteor text-indigo-400"></i> Managed hosting included with <span class="font-semibold">Call Theory Universe</span> bundle
+
                         </small>
                     </div>
                 </div>
@@ -159,18 +170,21 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="https://callcenterkpi.com" alt="Learn more at callcenterkpi.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                        <a href="mailto:support@notifi.us?subject=KPI Dashboard Demo" alt="Schedule a demo" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-calendar text-indigo-300"></i> Schedule Demo
+                        </a>&nbsp;
+                        <a href="https://callcenterkpi.com" alt="Learn more at callcenterkpi.com" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
-                            <i class="fas fa-meteor text-indigo-400"></i> Setup and management included with <span class="font-semibold">Call Theory Universe</span> bundle
+
                         </small>
                     </div>
                 </div>
             </div>
 
-            <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
+            <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
                     <i class="fas my-2 fa-5x fa-microscope text-indigo-500"></i>
                     <h5 class="text-2xl text-indigo-700 font-bold">
@@ -183,19 +197,45 @@
 
                     <div class="mt-4">
                         <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-shopping-bag text-indigo-300"></i> Buy À la carte
+                            <i class="fas fa-shopping-bag text-indigo-300"></i> Purchase
                         </a>&nbsp;
                         <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
                             <i class="fas fa-info-circle text-blue-300"></i> Learn More
                         </a>
 
                         <small class="block my-5 text-gray-500">
-                            <i class="fas fa-meteor text-indigo-400"></i> Included in <span class="font-semibold">Call Theory Universe</span> bundle
+
                         </small>
                     </div>
                 </div>
             </div>
 
+            <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 px-2">
+                <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
+                    <i class="fas my-2 fa-5x fa-key text-indigo-500"></i>
+                    <h5 class="text-2xl text-indigo-700 font-bold">
+                        NotifiUs Encrypt
+                    </h5>
+
+                    <p class="block text-indigo-500 text-center mb-6">
+                        Stop sending sensitive information directly in emails
+                    </p>
+
+                    <div class="mt-4">
+                        <a href="https://encrypt.notifi.us" alt="Learn more at encrypt.notifi.us" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-user-lock text-indigo-300"></i> Free to use
+                        </a>&nbsp;
+
+
+                        <small class="block my-5 text-gray-500">
+                            Free, simple-to-use encryption for anyone!
+                        </small>
+                    </div>
+                </div>
+            </div>
+
+
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto px-2">
                 <div class="py-12 px-4 mx-2 bg-indigo-100 rounded shadow border border-indigo-200 h-full">
                     <i class="fas my-2 fa-5x fa-shopping-cart text-indigo-500"></i>
@@ -221,6 +261,7 @@
                     </div>
                 </div>
             </div>
+            -->
 
 
         </div>
@@ -326,7 +367,7 @@
     </div>
     <div class="bg-gray-100 py-8 my-12 mx-auto w-full">
 
-        <div class="flex flex-wrap text-center max-w-5xl mx-auto px-2">
+        <div class="flex flex-wrap text-center max-w-5xl mx-auto px-2 items-start justify-start self-start content-start">
 
             <h5 class="px-4 my-6 w-full text-left text-lg text-gray-600 font-extrabold">
                 Stand-Alone Services &middot; <span class="text-gray-400">Unique products and services to help you level up</span>
@@ -378,29 +419,7 @@
                 </div>
             </div>
 
-            <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
-                <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
-                    <i class="fas my-2 fa-5x fa-key text-blue-500"></i>
-                    <h5 class="text-2xl text-indigo-700 font-bold">
-                        NotifiUs Encrypt
-                    </h5>
-
-                    <p class="block text-indigo-500 text-center mb-6">
-                        Stop sending sensitive information directly in emails
-                    </p>
-
-                    <div class="mt-4">
-                        <a href="https://encrypt.notifi.us" alt="Learn more at encrypt.notifi.us" class="rounded-lg mx-auto text-sm uppercase text-blue-100 shadow bg-blue-700 px-4 py-2 hover:bg-blue-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-blue-300"></i> Learn more
-                        </a>
-
-                        <small class="block my-5 text-gray-500">
-                            Free, simple-to-use encryption for anyone!
-                        </small>
-                    </div>
-                </div>
-            </div>
-
+            <!--
             <div class="w-full sm:w-full md:w-1/2 lg:w-1/2 my-3 mx-auto">
                 <div class="py-12 px-4 mx-2 bg-blue-100 rounded shadow border border-blue-400 h-full">
                     <i class="fas my-2 fa-5x fa-trophy text-blue-500"></i>
@@ -423,6 +442,7 @@
                     </div>
                 </div>
             </div>
+            -->
 
         </div>
     </div>

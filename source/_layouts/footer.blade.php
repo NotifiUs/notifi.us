@@ -16,7 +16,7 @@
                 <li class="my-1">
                     <i class="fab fa-github  text-purple-400"></i>
                     <a class="hover:text-purple-500"  href="https://github.com/NotifiUs">
-                        View code on Github
+                        Our code on Github
                     </a>
                 </li>
                 <li class="my-1">

@@ -199,8 +199,8 @@
                         <a href="https://store.calltheory.com/products/technical-skill-assessment" alt="Buy directly at store.calltheory.com" class="rounded-lg mx-auto text-sm uppercase text-indigo-100 shadow bg-indigo-700 px-4 py-2 hover:bg-indigo-900 hover:text-white font-bold w-auto block lg:inline">
                             <i class="fas fa-shopping-bag text-indigo-300"></i> Purchase
                         </a>&nbsp;
-                        <a href="/assess" alt="Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-blue-300"></i> Learn More
+                        <a href="/contact" alt="Let's talk! Learn more about technical assessments" class="rounded-lg mx-auto text-sm uppercase text-blue-500 shadow bg-gray-100 px-4 py-2 hover:bg-blue-100 hover:text-blue-600 font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-blue-300"></i> Let's Talk!
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -284,8 +284,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="/cloud" alt="Learn about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
+                        <a href="/contact" alt="Contact us about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-purple-300"></i> Contact Us
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -307,8 +307,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="/genesis" alt="Learn about Genesis migrations" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
+                        <a href="/contact" alt="Contact us about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-purple-300"></i> Contact Us
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -330,8 +330,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="/custom" alt="Learn about custom software development" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
+                        <a href="/contact" alt="Contact us about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-purple-300"></i> Contact Us
                         </a>
 
                         <small class="block my-5 text-gray-500">
@@ -353,8 +353,8 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="/telecom" alt="Learn about telephony support" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
-                            <i class="fas fa-info-circle text-purple-300"></i> Learn more
+                        <a href="/contact" alt="Contact us about cloud services" class="rounded-lg mx-auto text-sm uppercase text-purple-100 shadow bg-purple-700 px-4 py-2 hover:bg-purple-900 hover:text-white font-bold w-auto block lg:inline">
+                            <i class="fas fa-info-circle text-purple-300"></i> Contact Us
                         </a>
 
                         <small class="block my-5 text-gray-500">

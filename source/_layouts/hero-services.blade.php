@@ -2,26 +2,33 @@
 <div class="bg-gradient py-8 lg:py-16 w-full px-4 shadow mx-auto">
     <div class="flex flex-wrap max-w-6xl mx-auto">
 
-        <div class="w-full lg:w-3/5 px-4 max-w-2xl mx-auto">
+        <div class="w-full lg:w-3/5 px-4 max-w-3xl mx-auto">
             <div class="container mx-auto text-center align-middle">
 
                 <h1 class="text-white text-6xl mb-0 mt-6 font-black">
                    Call Theory
                 </h1>
 
-                <h2 class="text-white font-black text-xl uppercase font-sans my-2">
-                    <span class="font-bold text-blue-200">Documentation, Scripting, and Support</span>
+                <h2 class="text-white font-black text-3xl uppercase font-sans mb-2">
+                    <span class="font-bolder text-indigo-900">
+                        Backup for your technical staff
+                    </span>
                 </h2>
+
+                <h3 class="text-white font-black text-2xl uppercase font-sans my-2">
+                    <span class="font-bold text-blue-200">Documentation, Scripting, and Support</span>
+                </h3>
 
                 <!-- lg:flex-row || lg:flex-col w-auto lg:w-1/2 -->
                 <div class="text-indigo-100 font-semibold my-3">
                     <div class="flex flex-wrap text-center">
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Technical documentation for call centers
+                            Screenshare, phone, and email support
                         </div>
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
-                            Interactive <i class="italic">Done With You</i> support
+                            Technical documentation for call centers
                         </div>
+
                         <div class="flex-row md:flex-col md:w-1/2 mx-auto">
                             Unlimited scripting library access
                         </div>
@@ -38,8 +45,8 @@
                 </div>
 
                 <div class="my-8">
-                    <a alt="Sign up at calltheory.com" class="inline rounded-lg mx-auto text-lg uppercase text-purple-100 shadow bg-purple-700 my-12 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="https://calltheory.com/register">
-                        <i class="fas fa-star text-purple-300"></i> Subscribe Now
+                    <a alt="Sign up at calltheory.com" class="inline rounded-lg mx-auto text-lg uppercase text-purple-100 shadow bg-purple-700 my-12 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="https://calltheory.com">
+                        <i class="fas fa-star text-purple-300"></i> Learn More
                     </a>
 
                     <small class="block font-bold text-yellow-300 my-5">Level up your call center</small>
@@ -50,7 +57,7 @@
         <div class="w-full lg:w-2/5 px-4">
             <div class="container mx-auto text-center lg:text-left max-w-xl">
                 <div class="w-100 mx-auto">
-                    <img class="w-full max-w-sm mx-auto" src="/assets/images/startup.svg" title="Level up with our premium subscription bundle" alt="Call Theory Universe Premium Subscription">
+                    <img class="w-full max-w-md mx-auto" src="/assets/images/startup.svg" title="Level up with our premium subscription bundle" alt="Call Theory Universe Premium Subscription">
                 </div>
             </div>
         </div>

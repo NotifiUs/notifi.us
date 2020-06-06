@@ -365,6 +365,7 @@
             </div>
         </div>
     </div>
+    <!--
     <div class="bg-gray-100 py-8 my-12 mx-auto w-full">
 
         <div class="flex flex-wrap text-center max-w-5xl mx-auto px-2 items-start justify-start self-start content-start">
@@ -443,9 +444,11 @@
                 </div>
             </div>
             -->
-
+<!--
         </div>
     </div>
+    -->
+
 
     <h3 class="text-center text-3xl text-gray-400 font-hairline font-sans my-12">
         <!-- Call Theory Universe Breakdown -->

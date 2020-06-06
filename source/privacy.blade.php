@@ -10,7 +10,7 @@
 -->
 <h5 class="uppercase my-6 text-3xl text-indigo-700 font-black mx-auto text-center">Privacy Policy</h5>
 
-<div class="container mx-auto max-w-3xl px-4">
+<div class="container mx-auto max-w-3xl px-4 mb-6">
     <p class="my-3">This website is a product of <a class="font-semibold hover:text-indigo-800" href="https://notifi.us">NotifiUs, LLC</a>.
         This privacy policy will explain how our organization uses the personal data we collect from you when you use our website.</p>
     <h2 class="font-semibold text-xl">Topics</h2>

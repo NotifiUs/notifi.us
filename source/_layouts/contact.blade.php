@@ -70,7 +70,7 @@
                         <i class="fas fa-phone text-indigo-600 text-sm"></i> <a class="text-gray-700 font-semibold" href="tel:+1 888-966-9830">+1 888-966-9830</a>
                     </div>
                     <div class="shadow my-0 py-2 bg-purple-400">
-                        <i class="fas fa-phone text-indigo-600 text-sm"></i> <a class="text-gray-700  font-semibold" href="tel:+1 614-682-7015">+1 614-682-7015</a>
+                        <i class="fas fa-phone text-indigo-600 text-sm"></i> <a class="text-gray-100  font-semibold" href="tel:+1 614-682-7015">+1 614-682-7015</a>
                     </div>
                 </div>
             </div>

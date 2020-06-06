@@ -19,10 +19,6 @@
                         Our code on Github
                     </a>
                 </li>
-                <li class="my-1">
-                    <i class="fas fa-comments  text-purple-400"></i>
-                    <a class="hover:text-purple-500" href="https://wctp.io">SMS Aggregator</a>
-                </li>
             </ul>
         </div>
 
@@ -37,6 +33,11 @@
                     <i class="fas fa-chart-pie  text-purple-400"></i>
                     <a class="hover:text-purple-500" href="https://callcenterkpi.com">Real-time KPI Dashboard</a>
                 </li>
+                <li class="my-1">
+                    <i class="fas fa-comments  text-purple-400"></i>
+                    <a class="hover:text-purple-500" href="https://wctp.io">SMS Aggregator</a>
+                </li>
+               <!--
                <li class="my-1">
                     <i class="fas fa-gift  text-purple-400"></i>
                     <a class="hover:text-purple-500" href="https://callcentertrunk.com">Employee Appreciation Gifts</a>
@@ -47,6 +48,7 @@
                         Security Awareness Training
                     </a>
                 </li>
+                -->
             </ul>
         </div>
 

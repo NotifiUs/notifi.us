@@ -56,31 +56,31 @@
             <h5 class="uppercase text-2xl font-black text-purple-900">Follow Us</h5>
             <ul class="text-center  px-4">
                <li class="my-1">
-                    <a class="hover:text-purple-500" href="https://www.facebook.com/NotifiUsConsulting">
+                    <a class="hover:text-purple-500" href="https://www.facebook.com/CallTheory">
                         <i class="fab fa-facebook  text-purple-400"></i>
                         Facebook
                     </a>
                 </li>
                <li class="my-1">
-                    <a class="hover:text-purple-500" href="https://www.instagram.com/notifius">
+                    <a class="hover:text-purple-500" href="https://www.instagram.com/CallTheory">
                         <i class="fab fa-instagram  text-purple-400"></i>
                         Instagram
                     </a>
                 </li>
                <li class="my-1">
-                    <a class="hover:text-purple-500"  href="https://twitter.com/NotifiUs">
+                    <a class="hover:text-purple-500"  href="https://twitter.com/CallTheory">
                         <i class="fab fa-twitter  text-purple-400"></i>
                         Twitter
                     </a>
                 </li>
                <li class="my-1">
-                    <a class="hover:text-purple-500"  href="https://pinterest.com/NotifiUs">
+                    <a class="hover:text-purple-500"  href="https://pinterest.com/CallTheory">
                         <i class="fab fa-pinterest  text-purple-400"></i>
                         Pinterest
                     </a>
                 </li>
                <li class="my-1">
-                    <a class="hover:text-purple-500"  href="https://www.linkedin.com/company/notifius">
+                    <a class="hover:text-purple-500"  href="https://www.linkedin.com/company/CallTheory">
                         <i class="fab fa-linkedin  text-purple-400"></i>
                         LinkedIn
                     </a>

@@ -1,33 +1,26 @@
-
-<div class="bg-gradient py-8 lg:py-16 w-full px-4 shadow mx-auto">
-    <div class="flex flex-wrap max-w-6xl mx-auto">
-
-        <div class="w-full lg:w-3/5 px-4 max-w-2xl mx-auto">
-            <div class="container mx-auto text-center align-middle">
-
-                <h1 class="text-white font-extrabold text-4xl  mb-0 mt-6">
-                   Have a few minutes?
-                </h1>
-
-                <div class="inline-block text-2xl text-blue-100">
-                    We're happy to walk through your tech questions!
-                    Call, <span class="whitespace-no-wrap">e-mail</span>, or message us on social media.
-                </div>
-
-                <div class="my-8">
-                    <a title="Contact info" class="inline rounded-lg mx-auto text-lg uppercase text-purple-100 shadow bg-purple-700 my-12 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold" href="#contactform">
-                        <i class="fas fa-star text-purple-300"></i> Let's Talk
+<div class="bg-white">
+    <div class="max-w-6xl mx-auto py-16 px-4 sm:px-6 lg:px-8 w-full">
+        <div class="bg-gradient rounded-lg shadow-xl overflow-hidden lg:grid lg:grid-cols-2 lg:gap-4  mx-auto">
+            <div class="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
+                <div class="lg:self-center">
+                    <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
+                        <span class="block text-white">Have a few minutes?</span>
+                        <span class="block text-indigo-900">Let's Talk!</span>
+                    </h2>
+                    <p class="mt-4 text-lg leading-6 text-white">
+                        Need to talk through your tech questions?
+                        Schedule a call or message me on social media.
+                    </p>
+                    <a title="Contact us" alt="Contact us"
+                       class=" block text-lg text-purple-100 inline-block shadow bg-purple-700 mt-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
+                       href="https://calendly.com/call-theory/quick-call">
+                        <i class="fas fa-calendar-alt text-purple-300"></i> Schedule Quick Call
                     </a>
-                    <small class="block text-yellow-300 my-5"><strong>Warning</strong>: We may geek out on you</small>
+                    <small class="block text-white my-2"><strong>Warning</strong>: I may geek out on you</small>
                 </div>
-
             </div>
-        </div>
-        <div class="w-full lg:w-2/5 px-4">
-            <div class="container mx-auto text-center lg:text-left max-w-xl">
-                <div class="w-100 mx-auto">
-                    <img class="w-full max-w-sm mx-auto" src="/assets/images/team_meeting.svg" title="We love talking tech!" alt="Call Theory Universe Premium Subscription">
-                </div>
+            <div class="-mt-6 aspect-w-5 aspect-h-3 md:aspect-w-2 md:aspect-h-1">
+                <img class="w-full max-w-xs mx-auto" src="/assets/images/team_meeting.svg" title="We love talking tech!" alt="Call Theory">
             </div>
         </div>
     </div>

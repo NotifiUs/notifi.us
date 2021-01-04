@@ -1,15 +1,15 @@
 
 
-<div class="py-16 w-full px-4 mx-auto shadow">
+<div class="my-8 py-8 w-full px-4 mx-auto bg-gray-50 shadow-inner">
     <div class="flex flex-wrap  max-w-6xl mx-auto">
         <div class="lg:w-1/3 w-full px-4">
-            <h3 class="text-purple-600 font-bold text-4xl">Our Experience</h3>
+            <h3 class="text-purple-600 font-bold text-4xl">Experienced</h3>
             <h4 class="border-b-4 border-purple-700 w-2/12 my-4"></h4>
             <h5 class="text-gray-800 font-bold text-2xl">
-                15+ years of industry experience
+                Your guide to call center tech
             </h5>
-            <p class="text-gray-500 font-normal text-xl my-8">
-                We have a broad range of experience working with call centers of all sizes to manage their technology infrastructure, call taking operations, and software integrations.
+            <p class="text-gray-500 font-normal text-xl my-4">
+                Looking for specific industry experience to fill in the gaps? Get relevant advice without duplicating your staff and other vendor-partners along the way.
             </p>
         </div>
         <div class="lg:w-2/3 w-full">

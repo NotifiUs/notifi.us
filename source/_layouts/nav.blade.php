@@ -1,12 +1,4 @@
-
-@foreach( $page->include_nav as $included_pages)
-  @php
-    $haystack[] = $included_pages;
-  @endphp
-@endforeach
-
-@if( in_array( $page->_meta->filename, $haystack ) )
-<nav>
+<nav class="sticky top-0 z-50">
   <div class="py-4 justify-between items-center w-full bg-white px-2 shadow">
     <div class="flex flex-wrap xl:max-w-6xl lg:max-w-6xl mx-auto">
       <div class="w-2/12 hover:cursor-auto text-left">
@@ -27,7 +19,12 @@
             </a>
           </li>
           <li>
-            <a title="Have a question? Let's talk!" alt="Contact" class="@if( $page->_meta->filename == 'contact') {{ ' text-indigo-700 ' }} @else {{ ' text-gray-700 ' }}@endif xl:px-4 px-2 text-gray-700 hover:text-purple-700 font-bold" href="/contact">
+            <a title="Everything about NotifiUs, LLC" alt="About" class="@if( $page->_meta->filename == 'about') {{ ' text-indigo-700 ' }} @else {{ ' text-gray-700 ' }}@endif xl:px-4 px-2 text-gray-700 hover:text-purple-700 font-bold" href="/about">
+              <i class="fas fa-info-circle md:hidden"></i> <span class="hidden sm:hidden md:inline">About</span>
+            </a>
+          </li>
+          <li>
+            <a title="Contact me!" alt="Contact" class="@if( $page->_meta->filename == 'contact') {{ ' text-indigo-700 ' }} @else {{ ' text-gray-700 ' }}@endif xl:px-4 px-2 text-gray-700 hover:text-purple-700 font-bold" href="/contact">
               <i class="fas fa-envelope md:hidden"></i> <span class="hidden sm:hidden md:inline">Contact</span>
             </a>
           </li>
@@ -36,4 +33,3 @@
     </div>
   </div>
 </nav>
-@endif

@@ -16,7 +16,7 @@
                                 This section provides additional details about the legal and operational status of NotifiUs, LLC dba Call Theory.
                             </p>
                             <a title="Contact us" alt="Contact us"
-                               class=" block text-lg text-purple-100 inline-block shadow bg-purple-700 mt-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
+                               class=" block text-lg text-purple-100 inline-block items-center text-center shadow bg-purple-700 mt-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
                                href="/contact">
                                 <i class="fas fa-envelope text-purple-300"></i> Contact information
                             </a>

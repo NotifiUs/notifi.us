@@ -1,8 +1,8 @@
-<div class="product-timeline max-w-2xl mx-auto">
-    <h3 class="font-semibold text-gray-700">
+<div id="roadmap" class="product-timeline max-w-xl pt-10">
+    <h3 class="font-semibold text-xl text-gray-700">
         Company Roadmap
     </h3>
-    <p class="text-xs text-gray-400 mb-1">
+    <p class="text-sm text-gray-400 mb-1">
         My goal is to quickly and iteratively prioritize work based on customer and peer feedback. The timeline below represents that outcome from last quarter.
         I publish the primary goals for the next quarter so you can get an idea of <i>"What's in the pipeline"</i> and <a class="font-semibold text-purple-500 hover:underline hover:text-purple-700" href="mailto:support@calltheory.com">provide feedback</a> on items that interest you.
     </p>

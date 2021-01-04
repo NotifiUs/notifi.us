@@ -28,6 +28,11 @@
 </div>
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+    <h5 class="text-indigo-800 mx-auto text-xl font-mono text-center mb-8">
+        <i class="fas fa-road text-indigo-500"></i> Check out my <a href="/about#roadmap" class="font-semibold hover:underline hover:text-indigo-600">product roadmap</a>
+    </h5>
+</div>
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
 
 
     <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
@@ -69,7 +74,7 @@
                     <dt class="sr-only">Role</dt>
                     <dd class="mt-3">
                         <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                            Real-time KPI dashboard for Amtelco Infinity and Genesis call centers
+                            Real-time statistics KPI dashboard for Amtelco Infinity and Genesis call centers
                         </span>
                     </dd>
                 </dl>
@@ -97,7 +102,7 @@
                     <dt class="sr-only">Role</dt>
                     <dd class="mt-3">
                         <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                            Become your own SMS aggregator using Twilio, ThinQ, and more!
+                            Open-source WCTP gateway. Be your own SMS aggregator in Amtelco systems
                         </span>
                     </dd>
                 </dl>

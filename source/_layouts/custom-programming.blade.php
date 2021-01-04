@@ -1,4 +1,4 @@
-<div class="bg-gradient-alt pt-16 pb-24 max-w-6xl px-4 shadow-inner mx-auto rounded-lg">
+<div class="bg-gradient-alt pt-16 pb-24 max-w-6xl px-4 shadow-inner mx-auto lg:rounded-lg">
     <div class="flex flex-wrap max-w-6xl mx-auto">
         <div class="xl:w-5/12 lg:w-1/2 w-full">
 
@@ -38,7 +38,7 @@
     </div>
 </div>
 
-<div class="lg:w-10/12 w-full px-4 mx-auto">
+<div class="lg:w-10/12 w-full px-4 mx-auto ">
     <div class="flex flex-wrap max-w-6xl mx-auto">
         <div class="md:flex lg:w-5/12 md:w-8/12 px-4 py-8 bg-white shadow mx-auto -mt-10 mb-20">
 

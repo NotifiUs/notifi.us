@@ -4,11 +4,11 @@
 
 @section('body')
 
-<div class="container px-4 mx-auto max-w-lg text-center mt-4">
-    <h1 class="text-indigo-800 font-extrabold text-4xl text-center font-sans">
-        404 <span class="text-indigo-700">Not Found</span>
+<div class="container px-4 mx-auto max-w-lg text-center mt-12">
+    <h1 class="text-gray-800 font-extrabold text-4xl text-center font-sans">
+        404 <span class="text-gray-800">Not Found</span>
     </h1>
-    <h2 class="text-indigo-400 text-2xl text-center mb-6">
+    <h2 class="text-gray-500 text-2xl text-center mb-6">
         We couldn't connect your call.
     </h2>
 

@@ -6,12 +6,12 @@
 
         @include('_layouts.hero-contact')
 
-            <div class="relative bg-white px-8 ">
+            <div class="relative bg-white">
                 <div class="absolute inset-0 ">
                     <div class="absolute inset-y-0 left-0 w-1/2 bg-white"></div>
                 </div>
-                <div class="relative mx-auto lg:grid lg:grid-cols-5 shadow-lg border  rounded-lg">
-                    <div class="bg-purple-700 py-16 px-4 sm:px-6 lg:col-span-2 lg:px-8 lg:py-24 xl:pr-12 ">
+                <div class="relative mx-auto lg:grid lg:grid-cols-5 shadow-lg">
+                    <div class="bg-purple-700 bg-footer py-16 px-4 sm:px-6 lg:col-span-2 lg:px-8 lg:py-24 xl:pr-12 "> <!--rounded-t-lg xl:rounded-t-none xl:rounded-l-lg-->
                         <div class="max-w-lg mx-auto">
                             <h2 class="text-2xl font-extrabold tracking-tight text-purple-400 sm:text-3xl">
                                 How can I help?
@@ -64,29 +64,46 @@
                                 </div>
                             </dl>
                             <div class="my-3 mx-auto text-left">
-                                <a title="Find us on Facebook" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.facebook.com/CallTheory">
+                                <a title="Find us on Facebook" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.facebook.com/CallTheory">
                                     <i class="fab fa-facebook"></i>
                                 </a>
 
-                                <a title="Follow us on Twitter" class="text-purple-300 hover:text-purple-500 mx-1" href="https://twitter.com/CallTheory">
+                                <a title="Follow us on Twitter" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://twitter.com/CallTheory">
                                     <i class="fab fa-twitter"></i>
                                 </a>
-                                <!-- Please, noooooooo -->
-                                <a title="Join us on LinkedIn" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.linkedin.com/company/calltheory">
-                                    <i class="fab fa-linkedin"></i>
+
+                                <a title="Images on Instagram" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.instagram.com/CallTheory">
+                                    <i class="fab fa-instagram"></i>
                                 </a>
 
-                                <a title="Open source on Github" class="text-purple-300 hover:text-purple-500 mx-1" href="https://github.com/notifius">
+                                <a title="Tiktok with me!" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.tiktok.com/@calltheory">
+                                    <i class="fab fa-tiktok"></i>
+                                </a>
+
+                                <a title="Artwork on Pinterest" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.instagram.com/CallTheory">
+                                    <i class="fab fa-pinterest"></i>
+                                </a>
+
+                                <a title="Videos on Youtube" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.youtube.com/channel/UCKhbUL_4TprSymqbiTizmDA">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+
+                                <a title="Open source on Github" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://github.com/notifius">
                                     <i class="fab fa-github"></i>
                                 </a>
 
-                                <a title="Open source on Github" class="text-purple-300 hover:text-purple-500 mx-1" href="https://github.com/calltheory">
+                                <a title="Open source on Github" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://github.com/calltheory">
                                     <i class="fab fa-github-alt"></i>
+                                </a>
+
+                                <!-- Please, noooooooo -->
+                                <a title="Join us on LinkedIn" target="_blank" class="text-purple-300 hover:text-purple-500 mx-1" href="https://www.linkedin.com/company/calltheory">
+                                    <i class="fab fa-linkedin"></i>
                                 </a>
                             </div>
                         </div>
                     </div>
-                    <div class="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12 border-l-4 border-dashed border-purple-500">
+                    <div class="bg-gray-50 py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
                         <div class="max-w-lg mx-auto lg:max-w-none">
                             <form action="/thank-you" method="POST" name="notifi.us/contact" data-netlify="true" class="grid grid-cols-1 gap-y-6">
                                 <div>

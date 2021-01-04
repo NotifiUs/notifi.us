@@ -1,4 +1,4 @@
-<div class="bg-purple-700 w-full mx-auto text-center py-20 max-w-6xl rounded-tl-lg rounded-tr-lg shadow-lg border-b-4 border-dashed border-purple-500">
+<div class="bg-purple-700 w-full mx-auto text-center py-20 max-w-6xl lg:rounded-tl-lg lg:rounded-tr-lg shadow-lg border-b-4 border-dashed border-purple-500">
 
     <h3 class="text-4xl font-black text-purple-100 mt-2 px-2">Ready to level up?</h3>
 
@@ -15,7 +15,7 @@
     </a>
 
 </div>
-<div class="bg-purple-800 bg-footer mx-0 my-0 text-purple-100 py-8 max-w-6xl mx-auto rounded-bl-lg rounded-br-lg shadow-lg">
+<div class="bg-purple-800 bg-footer mx-0 my-0 text-purple-100 py-8 max-w-6xl mx-auto lg:rounded-bl-lg lg:rounded-br-lg shadow-lg">
 
     <div class="flex flex-wrap py-4 max-w-6xl mx-auto">
         <div class="w-full text-center  my-4 flex-row lg:flex-col lg:w-1/3 mx-auto">

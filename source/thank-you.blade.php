@@ -13,7 +13,4 @@
         <i class="fas fa-home text-indigo-300"></i> Go Home
     </a>&nbsp;
 
-
-
-
 @endsection

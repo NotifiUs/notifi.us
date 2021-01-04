@@ -4,7 +4,7 @@
 
     <div class="max-w-6xl mx-auto">
         <div class="bg-white">
-            <div class="max-w-6xl mx-auto py-16 px-4 sm:px-6 lg:px-8 w-full">
+            <div class="max-w-6xl mx-auto py-8 xl:py-16 px-4 sm:px-6 lg:px-8 w-full">
                 <div class="bg-gradient rounded-lg shadow-xl overflow-hidden lg:grid lg:grid-cols-2 lg:gap-4  mx-auto">
                     <div class="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
                         <div class="lg:self-center">
@@ -18,7 +18,7 @@
                             <a title="Contact us" alt="Contact us"
                                class=" block text-lg text-purple-100 inline-block shadow bg-purple-700 mt-6 px-5 py-3 hover:bg-purple-900 hover:text-white font-bold"
                                href="/contact">
-                                <i class="fas fa-envelope text-purple-300"></i> Contact
+                                <i class="fas fa-envelope text-purple-300"></i> Contact information
                             </a>
 
                         </div>
@@ -38,7 +38,7 @@
         <div class="mb-16 bg-white">
             <div class="mx-auto px-4 sm:px-6 lg:px-8">
 
-                <div class="lg:text-center">
+                <div class="text-center lg:text-center">
                     <!--
                     <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">
                        What Defines You
@@ -47,13 +47,9 @@
                     <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                         Company Values
                     </p>
-                    <div class="my-4 mx-auto text-center">
-                        <img class="max-w-xs inline" src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotifiUs, LLC">
-                        <img class="max-w-xs inline" src="/assets/images/call-theory.png" title="Call Theory" alt="Call Theory">
-                    </div>
+
                     <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
                         These are the motivations, ideas, values, and goals that drive my business decision-making and focus.
-
                     </p>
                 </div>
 
@@ -141,25 +137,29 @@
 
     </div>
 
-
-    <div class="lg:text-center">
-        <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">
-            More coming soon
-        </h2>
-        <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            Company Metrics
-        </p>
-        <p class="mt-4 mb-8 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            A selection of business metrics for NotifiUs, LLC
-        </p>
+    <div class="mx-auto max-w-6xl flex">
+        <div class=" bg-white mx-auto">
+            <div class="mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center lg:text-center">
+                    <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">
+                        (More coming soon)
+                    </h2>
+                    <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+                        Company Metrics
+                    </p>
+                    <p class="mt-4 mb-8 max-w-2xl text-xl text-gray-500 lg:mx-auto">
+                        A selection of business metrics for NotifiUs, LLC
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div class="mx-auto max-w-6xl flex">
-        <div class="w-3/5 px-8">
+    <div class="mx-auto max-w-6xl">
+        <div class="w-full flex-wrap  px-8"> <!-- lg:w-3/5 -->
 
-            <!-- This example requires Tailwind CSS v2.0+ -->
             <div>
-                <dl class="mt-5 grid grid-cols-1 gap-5 sm:grid-cols-2">
+                <dl class="grid grid-cols-1 gap-5 sm:grid-cols-2">
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
@@ -178,6 +178,28 @@
                             </dt>
                             <dd class="mt-1 text-3xl font-semibold text-gray-900">
                                 Call Theory <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-trade-name-registration-call-theory.pdf"><i class="far fa-file-pdf"></i></a>
+                            </dd>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
+                                Company Logo
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                               <img class="block h-10"  src="/assets/images/notifius.png" title="NotifiUs, LLC" alt="NotifiUs, LLC">
+                            </dd>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
+                                Call Theory Logo
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                                <img class="h-10 block" src="/assets/images/call-theory.png" title="Call Theory" alt="Call Theory">
                             </dd>
                         </div>
                     </div>
@@ -218,6 +240,29 @@
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
+                                Certificate of Liability Insurance
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                                Download <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-certificate-of-insurance.pdf"><i class="far fa-file-pdf"></i></a>
+                            </dd>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
+                                E&O Coverage Per Claim
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                                $1MM
+                            </dd>
+                        </div>
+                    </div>
+
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
                                 Certificate of Good Standing
                             </dt>
                             <dd class="mt-1 text-3xl font-semibold text-gray-900">
@@ -231,7 +276,7 @@
                             <dt class="text-sm font-medium text-gray-500 truncate">
                                 IRS Form W-9
                             </dt>
-                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                            <dd class="mt-1 text-3xl font-semibold text-gray-300">
                                 Coming Soon
                             </dd>
                         </div>
@@ -240,10 +285,21 @@
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
-                                Call Theory MRR (Jan 1. 2021)
+                                MRR
                             </dt>
-                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                                $4,254.16
+                            <dd class="mt-1 text-3xl font-semibold text-gray-300">
+                                Coming Soon
+                            </dd>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
+                                Annual Revenue
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-300">
+                                Coming Soon
                             </dd>
                         </div>
                     </div>
@@ -252,7 +308,7 @@
             </div>
 
         </div>
-        <div class="w-2/5">
+        <div class="w-full py-8 xl:pb-8 px-4">
             @include('_layouts.product-timeline')
         </div>
     </div>

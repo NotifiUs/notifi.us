@@ -865,7 +865,7 @@
                            How many characters is an SMS segment?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                           There are 160 characters per segment. If you include non-GSM characters, the segment will be billed at 67 characters as it must be encoded using differently.
+                           There are 160 characters per segment. If you include non-GSM characters, the segment will be billed at 67 characters as it must be encoded differently.
                             Non-GSM characters most often occur in non-US languages.
                         </dd>
                     </div>
@@ -897,6 +897,44 @@
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
                             Yes, since this is a standards-based WCTP implementation, most systems that act as a WCTP Enterprise Gateway will be compatible. If you'd like a specific carrier supported or even a customized version of the WCTP gateway to fit your specific requirements, please <a  class="font-semibold hover:underline hover:text-gray-700" href="/contact">contact us</a>!
+                        </dd>
+                    </div>
+
+                    <div>
+                        <dt class="text-lg leading-6 font-medium text-gray-900">
+                            What does managed hosting include for redundancy?
+                        </dt>
+                        <dd class="mt-2 text-base text-gray-500">
+                           Managed hosting includes two active/active systems setup in different cloud providers. If a cloud provider or DNS service fails (common reasons applications fail in single-cloud configurations), the other active site is already available for use.
+                        </dd>
+                    </div>
+
+                    <div>
+                        <dt class="text-lg leading-6 font-medium text-gray-900">
+                            Does managed hosting include carrier redundancy?
+                        </dt>
+                        <dd class="mt-2 text-base text-gray-500">
+                            Each active instance is configured to use both of our cloud telecom API providers, providing carrier redundancy in the event of SMS provider failure.
+                        </dd>
+                    </div>
+
+                    <div>
+                        <dt class="text-lg leading-6 font-medium text-gray-900">
+                            What is included with support?
+                        </dt>
+                        <dd class="mt-2 text-base text-gray-500">
+                           As an Application Service Provider, I have limited control over the underlying infrastructure provider (i.e., AWS, Azure, your on-premise site, etc.)
+                            Config and app-specific issues are included with support 24/7.
+                           At this time, we do not offer a SLA guarantee. (We are working on it.)
+                        </dd>
+                    </div>
+
+                    <div>
+                        <dt class="text-lg leading-6 font-medium text-gray-900">
+                           Do you have a public status page showing service issues?
+                        </dt>
+                        <dd class="mt-2 text-base text-gray-500">
+                            (Coming soon!)
                         </dd>
                     </div>
 

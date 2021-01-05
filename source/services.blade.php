@@ -37,23 +37,24 @@
 
     <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
 
-        <li class="col-span-1 flex flex-col text-center bg-gray-50 border hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
-            <div class="flex-1 flex flex-col p-8">
-
-                <img src="/assets/images/call-theory.png" class="mx-auto" style="max-width:204px;">
-                <dl class="mt-2 flex-grow flex flex-col justify-between">
-                    <dt class="sr-only">Product</dt>
-                    <dd class="text-purple-500 text-sm font-semibold">Technical Support</dd>
-                    <dt class="sr-only">Role</dt>
-                    <dd class="mt-3">
-                        <span class="px-2 py-1 text-gray-700 text-xs font-medium ">Tech support, documentation, scripts, and resources for NAEO and Amtelco call centers.</span>
-                    </dd>
-                </dl>
-            </div>
+        <li class="col-span-1 flex flex-col text-center bg-gray-50 border group hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
+            <a href="https://calltheory.com">
+                <div class="flex-1 flex flex-col p-8">
+                    <img src="/assets/images/call-theory.png" class="mx-auto" style="max-width:204px;">
+                    <dl class="mt-2 flex-grow flex flex-col justify-between">
+                        <dt class="sr-only">Product</dt>
+                        <dd class="text-purple-500 text-sm font-semibold">Technical Support</dd>
+                        <dt class="sr-only">Role</dt>
+                        <dd class="mt-3">
+                            <span class="px-2 py-1 text-gray-700 text-xs font-medium ">Tech support, documentation, scripts, and resources for NAEO and Amtelco call centers.</span>
+                        </dd>
+                    </dl>
+                </div>
+            </a>
             <div>
                 <div class="-mt-px flex divide-x divide-gray-200">
                     <div class="w-0 flex-1 flex">
-                        <a href="https://calltheory.com" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg hover:text-indigo-500">
+                        <a href="https://calltheory.com" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg group-hover:text-indigo-500">
 
                             <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
 
@@ -64,25 +65,56 @@
             </div>
         </li>
 
+        <li class="col-span-1 flex flex-col text-center bg-gray-50 border group hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
+            <a href="/services/sms-aggregator">
+                <div class="flex-1 flex flex-col p-8">
 
-        <li class="col-span-1 flex flex-col text-center bg-gray-50  border hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
-            <div class="flex-1 flex flex-col p-8">
-
-                <dl class="mt-2 flex-grow flex flex-col justify-between">
-                    <dt class="sr-only">Product</dt>
-                    <dd class="text-purple-500 text-xl font-semibold">Call Center KPI Dashboard</dd>
-                    <dt class="sr-only">Role</dt>
-                    <dd class="mt-3">
-                        <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                            Real-time statistics KPI dashboard for Amtelco Infinity and Genesis call centers
-                        </span>
-                    </dd>
-                </dl>
-            </div>
+                    <dl class="mt-2 flex-grow flex flex-col justify-between">
+                        <dt class="sr-only">Product</dt>
+                        <dd class="text-purple-500 text-xl font-semibold">SMS Aggregator for Amtelco systems</dd>
+                        <dt class="sr-only">Role</dt>
+                        <dd class="mt-3">
+                            <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
+                                Open-source WCTP gateway. Be your own SMS aggregator in Amtelco systems
+                            </span>
+                        </dd>
+                    </dl>
+                </div>
+            </a>
             <div>
                 <div class="-mt-px flex divide-x divide-gray-200">
                     <div class="w-0 flex-1 flex">
-                        <a href="https://callcenterkpi.com" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg hover:text-indigo-500">
+                        <a href="/services/sms-aggregator" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg group-hover:text-indigo-500">
+
+                            <span class="ml-3">Learn More</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+
+
+        <li class="col-span-1 flex flex-col text-center bg-gray-50  border group hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
+
+            <a href="https://callcenterkpi.com">
+                <div class="flex-1 flex flex-col p-8">
+
+                    <dl class="mt-2 flex-grow flex flex-col justify-between">
+                        <dt class="sr-only">Product</dt>
+                        <dd class="text-purple-500 text-xl font-semibold">Call Center KPI Dashboard</dd>
+                        <dt class="sr-only">Role</dt>
+                        <dd class="mt-3">
+                            <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
+                                Real-time statistics KPI dashboard for Amtelco Infinity and Genesis call centers
+                            </span>
+                        </dd>
+                    </dl>
+                </div>
+            </a>
+            <div>
+                <div class="-mt-px flex divide-x divide-gray-200">
+                    <div class="w-0 flex-1 flex">
+                        <a href="https://callcenterkpi.com" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg group-hover:text-indigo-500">
 
                             <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
 
@@ -93,50 +125,26 @@
             </div>
         </li>
 
-        <li class="col-span-1 flex flex-col text-center bg-gray-50 border hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
-            <div class="flex-1 flex flex-col p-8">
+        <li class="col-span-1 flex flex-col text-center bg-gray-50 border group hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
+            <a href="https://encrypt.notifi.us">
+                <div class="flex-1 flex flex-col p-8">
 
-                <dl class="mt-2 flex-grow flex flex-col justify-between">
-                    <dt class="sr-only">Product</dt>
-                    <dd class="text-purple-500 text-xl font-semibold">SMS Aggregator for Amtelco systems</dd>
-                    <dt class="sr-only">Role</dt>
-                    <dd class="mt-3">
-                        <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                            Open-source WCTP gateway. Be your own SMS aggregator in Amtelco systems
-                        </span>
-                    </dd>
-                </dl>
-            </div>
-            <div>
-                <div class="-mt-px flex divide-x divide-gray-200">
-                    <div class="w-0 flex-1 flex">
-                        <a href="/services/sms-aggregator" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg hover:text-indigo-500">
-
-                            <span class="ml-3">Learn More</span>
-                        </a>
-                    </div>
+                    <dl class="mt-2 flex-grow flex flex-col justify-between">
+                        <dt class="sr-only">Product</dt>
+                        <dd class="text-purple-500 text-lg font-semibold">Encrypted Credential Sharing</dd>
+                        <dt class="sr-only">Role</dt>
+                        <dd class="mt-3">
+                            <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
+                                Stop sending sensitive information directly in emails. Free for everyone and anyone.
+                            </span>
+                        </dd>
+                    </dl>
                 </div>
-            </div>
-        </li>
-
-        <li class="col-span-1 flex flex-col text-center bg-gray-50 border hover:border-indigo-500 rounded-lg shadow-lg divide-y divide-gray-200">
-            <div class="flex-1 flex flex-col p-8">
-
-                <dl class="mt-2 flex-grow flex flex-col justify-between">
-                    <dt class="sr-only">Product</dt>
-                    <dd class="text-purple-500 text-lg font-semibold">Encrypted Credential Sharing</dd>
-                    <dt class="sr-only">Role</dt>
-                    <dd class="mt-3">
-                        <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                            Stop sending sensitive information directly in emails. Free for everyone and anyone.
-                        </span>
-                    </dd>
-                </dl>
-            </div>
+            </a>
             <div>
                 <div class="-mt-px flex divide-x divide-gray-200">
                     <div class="w-0 flex-1 flex">
-                        <a href="https://encrypt.notifi.us" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg hover:text-indigo-500">
+                        <a href="https://encrypt.notifi.us" class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg group-hover:text-indigo-500">
 
                             <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
 

@@ -2,7 +2,7 @@
 
     <h3 class="text-4xl font-black text-purple-100 mt-2 px-2">Ready to level up?</h3>
 
-    <h5 class="text-purple-300 text-3xl font-bold mb-4  px-2"> We <i>love</i> talking tech!</h5>
+    <h5 class="text-purple-300 text-3xl font-bold mb-4  px-2"> I <i>love</i> talking tech!</h5>
 
     <a class="block hover:bg-white text-purple-900 hover:text-purple-700 text-lg px-5 py-3 bg-purple-200 inline-block my-4 shadow font-bold mx-2"
        href="https://calendly.com/call-theory/quick-call">

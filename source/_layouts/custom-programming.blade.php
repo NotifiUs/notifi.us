@@ -4,7 +4,7 @@
 
             <div class="container mx-auto text-center max-w-md">
                 <div class="w-100 mx-auto">
-                    <img class="w-auto mx-auto my-4" src="/assets/images/coding.svg" title="Build out your dream product &mdash; we can help!" alt="NotifiUs, LLC">
+                    <img class="w-auto mx-auto my-4" src="/assets/images/coding.svg" title="Build out your dream product &mdash; I can help!" alt="NotifiUs, LLC">
                 </div>
             </div>
 

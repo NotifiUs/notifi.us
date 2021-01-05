@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="-mt-6 aspect-w-5 aspect-h-3 md:aspect-w-2 md:aspect-h-1">
-                <img class="w-full max-w-xs mx-auto" src="/assets/images/team_meeting.svg" title="We love talking tech!" alt="Call Theory">
+                <img class="w-full max-w-xs mx-auto" src="/assets/images/team_meeting.svg" title="I love talking tech!" alt="Call Theory">
             </div>
         </div>
     </div>

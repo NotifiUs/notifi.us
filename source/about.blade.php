@@ -70,8 +70,8 @@
                                    Open & Transparent
                                 </dt>
                                 <dd class="mt-2 text-base text-gray-500">
-                                    These values come through in both our products (open-source software) and our every-day interactions with our customers, vendors, and peers.
-                                    This page is a testament to the information we make available for anyone to see about our company, and we hope to continue expanding what metrics display here.
+                                    These values come through in both our products (<a class="font-semibold hover:underline hover:text-gray-700" href="/services">open-source software</a>), <a class="font-semibold hover:underline hover:text-gray-700" href="https://trello.com/b/NYo7eRDN/community-tools">planning process</a>, and our every-day interactions with our customers, vendors, and peers.
+                                    This page is a testament to the information available publicly, and I hope to continue expanding what metrics display here.
                                 </dd>
                             </div>
                         </div>

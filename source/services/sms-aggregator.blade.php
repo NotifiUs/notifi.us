@@ -856,7 +856,7 @@
                             Is the Open Source edition limited?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                            No. It's the exact code-base we use for application hosting. We just don't do any of the work or provide service for you. Otherwise, all the same features are there.
+                            No. It's the exact code-base used for application hosting. I just don't do any of the work or provide service for you. Otherwise, all the same features are there.
                         </dd>
                     </div>
 

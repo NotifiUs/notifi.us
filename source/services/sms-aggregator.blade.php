@@ -934,7 +934,7 @@
                            Do you have a public status page showing service issues?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                            (Coming soon!)
+                            You can find our company status page at <a title="status.calltheory.net" class="font-semibold hover:underline hover:text-gray-700" href="https://status.calltheory.net/">status.calltheory.net</a>
                         </dd>
                     </div>
 

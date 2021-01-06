@@ -816,7 +816,7 @@
         <div class="max-w-7xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
             <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                 <span class="block">You have questions.</span>
-                <span class="block text-indigo-600">Maybe I can help?</span>
+                <span class="block text-indigo-600">I'd be happy to help!</span>
             </h2>
             <div class="mt-8 flex justify-center">
                 <div class="inline-flex rounded-md shadow">

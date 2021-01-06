@@ -218,6 +218,17 @@
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
+                                Certificate of Good Standing
+                            </dt>
+                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
+                                Download <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-certificate-of-good-standing.pdf"><i class="far fa-file-pdf"></i></a>
+                            </dd>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
                                 LLC Member(s)
                             </dt>
                             <dd class="mt-1 text-3xl font-semibold text-gray-900">
@@ -240,17 +251,6 @@
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
-                                Certificate of Liability Insurance
-                            </dt>
-                            <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                                Download <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-certificate-of-insurance.pdf"><i class="far fa-file-pdf"></i></a>
-                            </dd>
-                        </div>
-                    </div>
-
-                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
-                        <div class="px-4 py-5 sm:p-6">
-                            <dt class="text-sm font-medium text-gray-500 truncate">
                                 E&O Coverage Per Claim
                             </dt>
                             <dd class="mt-1 text-3xl font-semibold text-gray-900">
@@ -259,14 +259,13 @@
                         </div>
                     </div>
 
-
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
-                                Certificate of Good Standing
+                                Certificate of Liability Insurance
                             </dt>
                             <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                                Download <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-certificate-of-good-standing.pdf"><i class="far fa-file-pdf"></i></a>
+                                Download <a class="text-purple-500 hover:text-purple-700 text-sm" href="/assets/files/notifius-llc-certificate-of-insurance.pdf"><i class="far fa-file-pdf"></i></a>
                             </dd>
                         </div>
                     </div>
@@ -304,11 +303,31 @@
                         </div>
                     </div>
 
+                    <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
+                        <div class="px-4 py-5 sm:p-6">
+                            <dt class="text-sm font-medium text-gray-500 truncate">
+                                Service Status
+                            </dt>
+                            <dd class="mt-1 text-xl font-semibold text-gray-900">
+                               <a href="https://status.calltheory.net"
+                                  target="_blank"
+                                  class=" text-indigo-500 hover:text-indigo-700"
+                                  title="Call Theory & NotifiUs, LLC service status page">
+                                   <svg class="w-6 h-6 inline text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                                   status.calltheory.net
+                               </a>
+                            </dd>
+                        </div>
+                    </div>
+
                 </dl>
             </div>
 
         </div>
-        <div class="w-full py-8 xl:pb-8 px-4">
+        <div class="w-full py-8 xl:pb-8 px-4  lg:flex">
+            <div class="w-full flex-col px-4 pt-10">
+                <img class="w-full max-w-lg mx-auto" style="min-width:350px;" src="/assets/images/data_process.svg" alt="Call Theory" title="Call Theory">
+            </div>
             @include('_layouts.product-timeline')
         </div>
     </div>

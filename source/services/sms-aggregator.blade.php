@@ -925,7 +925,6 @@
                         <dd class="mt-2 text-base text-gray-500">
                            As an Application Service Provider, I have limited control over the underlying infrastructure provider (i.e., AWS, Azure, your on-premise site, etc.)
                             Config and app-specific issues are included with support 24/7.
-                           At this time, we do not offer a SLA guarantee. (We are working on it.)
                         </dd>
                     </div>
 

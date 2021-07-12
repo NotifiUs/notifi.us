@@ -70,7 +70,7 @@
                                    Open & Transparent
                                 </dt>
                                 <dd class="mt-2 text-base text-gray-500">
-                                    These values come through in both our products (<a class="font-semibold hover:underline hover:text-gray-700" href="/services">open-source software</a>), <a class="font-semibold hover:underline hover:text-gray-700" href="https://trello.com/b/NYo7eRDN/community-tools">planning process</a>, and our every-day interactions with our customers, vendors, and peers.
+                                    These values come through in both our products (<a class="font-semibold hover:underline hover:text-gray-700" href="/services">open-source software</a>) and our every-day interactions with our customers, vendors, and peers.
                                     This page is a testament to the information available publicly, and I hope to continue expanding what metrics display here.
                                 </dd>
                             </div>
@@ -148,7 +148,7 @@
                         About NotifiUs, LLC
                     </p>
                     <p class="mt-4 mb-8 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-                        Have questions? <a href title="Contact us" class="hover:underline" href="/contact">Contact us</a>
+                        Have questions? <a title="Contact us" class="hover:underline" href="/contact">Contact us</a>
                     </p>
                 </div>
             </div>

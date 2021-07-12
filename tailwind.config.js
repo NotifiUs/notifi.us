@@ -1,7 +1,11 @@
 module.exports = {
-  purge: [
-      'build_production/*'
-  ],
+  purge: {
+    enabled: true,
+    content:[
+      './source/**/*.html',
+      './source/**/*.php',
+      './source/**/*.js',
+    ]},
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},

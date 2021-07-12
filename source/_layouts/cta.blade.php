@@ -27,12 +27,12 @@
                 </li>
                 <li class="my-1">
                     <i class="fas fa-shopping-cart  text-purple-400"></i>
-                    <a class="hover:text-white"  href="https://store.calltheory.com">Our Online Store</a>
+                    <a class="hover:text-white"  href="https://store.calltheory.com">Online Store</a>
                 </li>
                 <li class="my-1">
                     <i class="fab fa-github  text-purple-400"></i>
                     <a class="hover:text-white"  href="https://github.com/NotifiUs">
-                        Source Code on Github
+                        Github
                     </a>
                 </li>
             </ul>
@@ -47,11 +47,11 @@
                 </li>
                 <li class="my-1">
                     <i class="fas fa-chart-pie  text-purple-400"></i>
-                    <a class="hover:text-white" href="https://callcenterkpi.com">Real-time KPI Dashboard</a>
+                    <a class="hover:text-white" href="https://callcenterkpi.com">Call Center Dashboard</a>
                 </li>
                 <li class="my-1">
                     <i class="fas fa-comments  text-purple-400"></i>
-                    <a class="hover:text-white" href="/services/sms-aggregator">Open-Source SMS Aggregator</a>
+                    <a class="hover:text-white" href="/services/sms-aggregator">Open-Source WCTP Gateway</a>
                 </li>
             </ul>
         </div>

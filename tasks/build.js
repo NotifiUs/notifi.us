@@ -1,12 +1,13 @@
 let argv = require('yargs').argv;
+
 let bin = require('./bin');
 let command = require('node-cmd');
 
-let BrowserSync = require('browser-sync');
-let BrowserSyncPlugin = require('browser-sync-webpack-plugin');
-let ExtraWatchWebpackPlugin = require('extra-watch-webpack-plugin');
+//let BrowserSync = require('browser-sync');
+//let BrowserSyncPlugin = require('browser-sync-webpack-plugin');
+//let ExtraWatchWebpackPlugin = require('extra-watch-webpack-plugin');
 
-let browserSyncInstance;
+//let browserSyncInstance;
 let env = argv.e || argv.env || 'local';
 let port = argv.p || argv.port || 3000;
 
@@ -17,21 +18,21 @@ module.exports = {
                 command.get(bin.path() + ' build -q ' + env, (error, stdout, stderr) => {
                     console.log(error ? stderr : stdout);
 
-                    if (browserSyncInstance) {
+                    /*if (browserSyncInstance) {
                         browserSyncInstance.reload();
-                    }
+                    }*/
                 });
             });
         }
     },
 
-    watch: function (paths) {
+    /*watch: function (paths) {
         return new ExtraWatchWebpackPlugin({
             files: paths,
         });
-    },
+    },*/
 
-    browserSync: function (proxy) {
+    /*browserSync: function (proxy) {
         return new BrowserSyncPlugin({
             notify: false,
             port: port,
@@ -44,5 +45,5 @@ module.exports = {
                 browserSyncInstance = BrowserSync.get('bs-webpack-plugin');
             },
         })
-    },
+    },*/
 };

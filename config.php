@@ -9,7 +9,9 @@ return [
     'include_nav' => [
         'index',
         'services',
+        'about',
         'contact',
+
     ],
     'services' => [
         [
@@ -50,7 +52,7 @@ return [
         [
             'image' => '/assets/images/games.jpg',
             'title' => 'Gamification ',
-            'description' => 'Incentivize your employees and clients through everyday usage'
+            'description' => 'Motivate your employees and clients through everyday usage'
         ],
     ],
 ];

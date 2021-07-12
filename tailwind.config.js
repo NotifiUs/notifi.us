@@ -1,5 +1,7 @@
 module.exports = {
-  purge: [],
+  purge: [
+      'build_production/*'
+  ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},

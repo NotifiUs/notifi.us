@@ -45,7 +45,7 @@
                         <span class="text-4xl font-extrabold text-gray-900">$0</span>
                         <span class="text-base font-medium text-gray-500">/forever</span>
                     </p>
-                    <p class="mt-4 text-sm text-gray-500">Free, open-source SMS aggregator software using the MIT license.</p>
+                    <p class="mt-4 text-sm text-gray-500">Free, open-source WCTP gateway software using the MIT license.</p>
                     <a href="https://github.com/notifius/wctp-gateway" class="mt-6 block  w-full py-2 text-sm font-semibold text-center bg-white text-indigo-800 hover:bg-indigo-100 hover:text-indigo-800 border-2 border-indigo-800">
                         Download Free
                     </a>
@@ -75,7 +75,7 @@
                     </tr>
 
                     <tr class="border-t border-gray-200">
-                        <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Free Installation</th>
+                        <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Installation Included</th>
                         <td class="py-5 pr-4">
                             <!-- Heroicon name: minus -->
                             <svg class="ml-auto h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -168,11 +168,11 @@
                     <tr class="border-t border-gray-200">
                         <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Clear by link</th>
                         <td class="py-5 pr-4">
-                            <!-- Heroicon name: minus -->
-                            <svg class="ml-auto h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd" d="M3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+                            <!-- Heroicon name: check -->
+                            <svg class="ml-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                             </svg>
-                            <span class="sr-only">No</span>
+                            <span class="sr-only">Yes</span>
                         </td>
                     </tr>
                     </tbody>
@@ -189,12 +189,12 @@
                     <div class="px-4 mt-4">
                         <h2 class="text-lg leading-6 font-medium text-gray-900">Managed</h2>
                         <p class="mt-4">
-                            <span class="text-4xl font-extrabold text-gray-900">25</span>
+                            <span class="text-4xl font-extrabold text-gray-900">39</span>
                             <span class="text-base font-medium text-gray-500">/mo</span>
                         </p>
-                        <p class="mt-4 text-sm text-gray-500">Fully managed cloud hosting - 1 month free when you commit annually.</p>
-                        <a href="https://store.calltheory.com/products/sms-aggregator" class="mt-6 block border  w-full py-2 text-sm font-semibold text-center bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
-                            Buy Hosting
+                        <p class="mt-4 text-sm text-gray-500">Fully managed cloud hosting. Bring your own carrier accounts.</p>
+                        <a href="/contact" class="mt-6 block border  w-full py-2 text-sm font-semibold text-center bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
+                            Learn more
                         </a>
                     </div>
 
@@ -221,7 +221,7 @@
                         </tr>
 
                         <tr class="border-t border-gray-200">
-                            <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Free Installation</th>
+                            <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Installation Included</th>
                             <td class="py-5 pr-4">
                                 <!-- Heroicon name: check -->
                                 <svg class="ml-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -280,30 +280,29 @@
                         <tr class="border-t border-gray-200">
                             <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Bring your own carrier (BYOC)</th>
                             <td class="py-5 pr-4">
-                                <!-- Heroicon name: minus -->
-                                <svg class="ml-auto h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                    <path fill-rule="evenodd" d="M3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+                                <!-- Heroicon name: check -->
+                                <svg class="ml-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                                 </svg>
-                                <span class="sr-only">No</span>
+                                <span class="sr-only">Yes</span>
                             </td>
                         </tr>
 
                         <tr class="border-t border-gray-200">
                             <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Included phone number(s)
                             </th>
-                            <td class="py-5 text-right">
-                                 <span class="text-sm text-green-500">
-                               <strong>2x</strong> Toll-Free Numbers
+                            <td class="py-5 pr-4">
+                              <span class="text-sm text-green-500">
+                                BYOC
                             </span>
-                                <span class="sr-only">2x Toll Free Numbers</span>
                             </td>
                         </tr>
 
                         <tr class="border-t border-gray-200">
                             <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">SMS segment cost</th>
-                            <td class="py-5 text-right">
-                                <span class="text-sm text-green-500">
-                               <strong>$0.0075</strong>/sms
+                            <td class="py-5 pr-4">
+                              <span class="text-sm text-green-500">
+                                BYOC
                             </span>
                             </td>
                         </tr>
@@ -322,8 +321,8 @@
                     </table>
 
                     <div class="border-t border-gray-200 px-4 pt-5">
-                        <a href="https://store.calltheory.com/products/sms-aggregator" class="mt-6 block border  w-full py-2 text-sm font-semibold text-center bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
-                            Buy Hosting
+                        <a href="/contact" class="mt-6 block border  w-full py-2 text-sm font-semibold text-center bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
+                            Contact Us
                         </a>
                     </div>
                 </div>
@@ -335,9 +334,9 @@
                         <span class="text-base font-medium text-gray-500">/yr</span>
                     </p>
                     <p class="mt-4 text-sm text-gray-500">Custom on-premise installation or in your own cloud environment.</p>
-                    <a href="https://store.calltheory.com/products/sms-aggregator?variant=37444097343649"
+                    <a href="/contact"
                        class="mt-6 block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
-                        Buy Enterprise
+                        Learn More
                     </a>
                 </div>
 
@@ -362,7 +361,7 @@
                     </tr>
 
                     <tr class="border-t border-gray-200">
-                        <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Free Installation</th>
+                        <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Installation Included</th>
                         <td class="py-5 pr-4">
                             <!-- Heroicon name: check -->
                             <svg class="ml-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -434,9 +433,8 @@
                         </th>
                         <td class="py-5 text-right">
                             <span class="text-sm text-green-500">
-                           <strong>2x</strong> Toll-Free Numbers
-                        </span>
-                            <span class="sr-only">2x Toll Free Numbers</span>
+                                BYOC
+                            </span>
                         </td>
                     </tr>
 
@@ -444,14 +442,14 @@
                         <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">SMS segment cost</th>
                         <td class="py-5 text-right">
                             <span class="text-sm text-green-500">
-                           <strong>$0.0075</strong>/sms
-                        </span>
+                                BYOC
+                            </span>
                         </td>
                     </tr>
 
                     <tr class="border-t border-gray-200">
                         <th class="py-5 px-4 text-sm font-normal text-gray-500 text-left" scope="row">Clear by link</th>
-                        <td class="py-5 pr-4">
+                        <td class="ml-auto py-5 pr-4">
                             <!-- Heroicon name: check -->
                             <svg class="ml-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
@@ -463,9 +461,9 @@
                 </table>
 
                 <div class="border-t border-gray-200 px-4 pt-5">
-                    <a href="https://store.calltheory.com/products/sms-aggregator?variant=37444097343649"
+                    <a href="/contact"
                        class="mt-6 block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
-                        Buy Enterprise
+                        Learn More
                     </a>
                 </div>
             </div>
@@ -513,12 +511,12 @@
                         <td class="h-full py-8 px-6 align-top">
                             <div class="relative h-full table">
                                 <p>
-                                    <span class="text-4xl font-extrabold text-gray-900">$25</span>
+                                    <span class="text-4xl font-extrabold text-gray-900">$39</span>
                                     <span class="text-base font-medium text-gray-500">/mo</span>
                                 </p>
-                                <p class="mt-4 mb-16 text-sm text-gray-500">Fully managed cloud hosting - 1 month free when you commit annually.</p>
-                                <a href="https://store.calltheory.com/products/sms-aggregator" class="absolute bottom-0 flex-grow block w-full bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
-                                    Buy Hosting
+                                <p class="mt-4 mb-16 text-sm text-gray-500">Fully managed cloud hosting. Bring your own carrier accounts.</p>
+                                <a href="/contact" class="absolute bottom-0 flex-grow block w-full bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
+                                    Contact Us
                                 </a>
                             </div>
                         </td>
@@ -530,8 +528,8 @@
                                     <span class="text-base font-medium text-gray-500">/yr</span>
                                 </p>
                                 <p class="mt-4 mb-16 text-sm text-gray-500">Custom on-premise installation or in your own cloud environment.</p>
-                                <a href="https://store.calltheory.com/products/sms-aggregator?variant=37444097343649" class="absolute bottom-0 flex-grow block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
-                                    Purchase Enterprise
+                                <a href="/contact" class="absolute bottom-0 flex-grow block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
+                                   Learn More
                                 </a>
                             </div>
                         </td>
@@ -564,7 +562,7 @@
                     </tr>
 
                     <tr>
-                        <th class="py-5 px-6 text-sm font-normal text-gray-500 text-left" scope="row">Free Installation</th>
+                        <th class="py-5 px-6 text-sm font-normal text-gray-500 text-left" scope="row">Installation Included</th>
                         <td class="py-5 px-6">
                             <!-- Heroicon name: minus -->
                             <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -673,19 +671,21 @@
                             <svg class="h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                             </svg>
-                            <span class="sr-only">No</span>
-                        </td>
-                        <td class="py-5 px-6">
-                            <!-- Heroicon name: minus -->
-                            <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd" d="M3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
-                            </svg>
+                            <span class="sr-only">Yes</span>
                         </td>
                         <td class="py-5 px-6">
                             <!-- Heroicon name: check -->
                             <svg class="h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                             </svg>
+                            <span class="sr-only">Yes</span>
+                        </td>
+                        <td class="py-5 px-6">
+                            <!-- Heroicon name: check -->
+                            <svg class="h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg>
+                            <span class="sr-only">Yes</span>
                         </td>
                     </tr>
                     <tr>
@@ -700,13 +700,13 @@
                         <td class="py-5 px-6">
 
                         <span class="text-sm  text-green-500">
-                            <strong>2x</strong> Toll-Free Numbers
+                             BYOC
                         </span>
                             <span class="sr-only">Yes</span>
                         </td>
                         <td class="py-5 px-6">
                         <span class="text-sm text-green-500">
-                             BYOC or  <strong>2x</strong> Toll-Free Numbers
+                              BYOC
                         </span>
                             <span class="sr-only">Yes</span>
                         </td>
@@ -723,13 +723,13 @@
                         </td>
                         <td class="py-5 px-6">
                        <span class="text-sm text-green-500">
-                           <strong>$0.0075</strong>/sms
+                           BYOC
                         </span>
                             <span class="sr-only">Yes</span>
                         </td>
                         <td class="py-5 px-6">
                          <span class="text-sm  text-green-500">
-                            BYOC or <strong>$0.0075</strong>/sms
+                            BYOC
                         </span>
                             <span class="sr-only">Yes</span>
                         </td>
@@ -738,11 +738,11 @@
                     <tr>
                         <th class="py-5 px-6 text-sm font-normal text-gray-500 text-left" scope="row">Clear by link</th>
                         <td class="py-5 px-6">
-                            <!-- Heroicon name: minus -->
-                            <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd" d="M3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+                            <!-- Heroicon name: check -->
+                            <svg class="mr-auto h-5 w-5 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
                             </svg>
-                            <span class="sr-only">No</span>
+                            <span class="sr-only">Yes</span>
                         </td>
                         <td class="py-5 px-6">
                             <!-- Heroicon name: check -->
@@ -771,7 +771,7 @@
                                     <span class="text-4xl font-extrabold text-gray-900">$0</span>
                                     <span class="text-base font-medium text-gray-500">/forever</span>
                                 </p>
-                                <p class="mt-4 mb-16 text-sm text-gray-500">Free, open-source SMS aggregator software using the MIT license.</p>
+                                <p class="mt-4 mb-16 text-sm text-gray-500">Free, open-source WCTP gateway software using the MIT license.</p>
                                 <a href="https://github.com/notifius/wctp-gateway"
                                    class="absolute bottom-0 flex-grow block w-full bg-white border-2 border-indigo-800 py-2 text-sm font-semibold text-indigo-800 text-center hover:bg-indigo-100 hover:text-indigo-800">
                                     Download Free
@@ -782,12 +782,12 @@
                         <td class="h-full py-8 px-6 align-top">
                             <div class="relative h-full table">
                                 <p>
-                                    <span class="text-4xl font-extrabold text-gray-900">$25</span>
+                                    <span class="text-4xl font-extrabold text-gray-900">$39</span>
                                     <span class="text-base font-medium text-gray-500">/mo</span>
                                 </p>
-                                <p class="mt-4 mb-16 text-sm text-gray-500">Fully managed cloud hosting - 1 month free when you commit annually.</p>
-                                <a href="https://store.calltheory.com/products/sms-aggregator" class="absolute bottom-0 flex-grow block w-full bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
-                                    Buy Hosting
+                                <p class="mt-4 mb-16 text-sm text-gray-500">Fully managed cloud hosting. Bring your own carrier accounts.</p>
+                                <a href="/contact" class="absolute bottom-0 flex-grow block w-full bg-indigo-700 border border-purple-800 py-2 text-sm font-semibold text-white text-center hover:bg-indigo-900">
+                                    Contact Us
                                 </a>
                             </div>
                         </td>
@@ -799,8 +799,8 @@
                                     <span class="text-base font-medium text-gray-500">/yr</span>
                                 </p>
                                 <p class="mt-4 mb-16 text-sm text-gray-500">Custom on-premise installation or in your own cloud environment.</p>
-                                <a href="https://store.calltheory.com/products/sms-aggregator?variant=37444097343649" class="absolute bottom-0 flex-grow block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
-                                    Purchase Enterprise
+                                <a href="/contact" class="absolute bottom-0 flex-grow block w-full bg-gray-700 border border-gray-800 py-2 text-sm font-semibold text-white text-center hover:bg-gray-900">
+                                    Learn More
                                 </a>
                             </div>
                         </td>
@@ -846,7 +846,7 @@
                             What is Bring Your Own Carrier (BYOC)?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                           <span class="font-semibold">BYOC</span> allows you to use your own compatible carrier account by using your own credentials.
+                           <span class="font-semibold">BYOC</span> allows you to use your own compatible carrier account by using your own API credentials.
                             The carrier bills you for usage directly.
                         </dd>
                     </div>
@@ -875,7 +875,7 @@
                             What is <i>Clear by link</i>?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                            Pioneered in our industry by <a target="_blank" class="hover:text-gray-700" href="https://tastechgroup.com/">TAS Tech Group</a>, it sends a link to the recipient which can be clicked to respond to the text.
+                            Sends a standard web-link to the recipient which can be clicked as an alternative to responding by text.
                             When cleared by link, your system is notified as if they had cleared by text normally. <small>e.g., <code class="bg-gray-50 text-purple-500 border border-gray-100">3ok</code></small>
                         </dd>
                     </div>
@@ -905,7 +905,7 @@
                             What does managed hosting include for redundancy?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                           Managed hosting includes two active/active systems setup in different cloud providers. If a cloud provider or DNS service fails (common reasons applications fail in single-cloud configurations), the other active site is already available for use.
+                           Managed hosting includes a primary and backup systems setup in different cloud providers. If a cloud provider or DNS service fails (common reasons applications fail in single-cloud configurations), the other active site is already available for use.
                         </dd>
                     </div>
 
@@ -914,7 +914,7 @@
                             Does managed hosting include carrier redundancy?
                         </dt>
                         <dd class="mt-2 text-base text-gray-500">
-                            Each active instance is configured to use both of our cloud telecom API providers, providing carrier redundancy in the event of SMS provider failure.
+                            All of our hosting options require you to bring your own carrier accounts. This would require you to setup telecom API providers for both ThinQ and Twilio.
                         </dd>
                     </div>
 

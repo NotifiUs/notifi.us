@@ -2,13 +2,13 @@ let mix = require('laravel-mix');
 let build = require('./tasks/build.js');
 let tailwindcss = require("tailwindcss");
 
-mix.disableSuccessNotifications();
+mix.disableNotifications();
 mix.setPublicPath('source/assets/build');
 mix.webpackConfig({
     plugins: [
         build.jigsaw,
-        build.browserSync(),
-        build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*']),
+        //build.browserSync(),
+        //build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*']),
     ]
 });
 

@@ -27,11 +27,14 @@
     </div>
 </div>
 
+<!--
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
     <h5 class="text-indigo-800 mx-auto text-xl font-mono text-center mb-8">
         <i class="fas fa-road text-indigo-500"></i> Check out my <a href="/about#roadmap" class="font-semibold hover:underline hover:text-indigo-600">product roadmap</a>
     </h5>
 </div>
+-->
+
 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
 
 
@@ -71,11 +74,11 @@
 
                     <dl class="mt-2 flex-grow flex flex-col justify-between">
                         <dt class="sr-only">Product</dt>
-                        <dd class="text-purple-500 text-xl font-semibold">SMS Aggregator for Amtelco systems</dd>
+                        <dd class="text-purple-500 text-xl font-semibold">WCTP Gateway for Amtelco systems</dd>
                         <dt class="sr-only">Role</dt>
                         <dd class="mt-3">
                             <span class="px-2 py-1 text-gray-700 text-xs font-medium ">
-                                Open-source WCTP gateway. Be your own SMS aggregator in Amtelco systems
+                                Open-source WCTP gateway. Be your own SMS aggregator in Amtelco systems.
                             </span>
                         </dd>
                     </dl>

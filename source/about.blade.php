@@ -142,13 +142,13 @@
             <div class="mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="text-center lg:text-center">
                     <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">
-                        (More coming soon)
+                        Information Center
                     </h2>
                     <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-                        Company Metrics
+                        About NotifiUs, LLC
                     </p>
                     <p class="mt-4 mb-8 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-                        A selection of business metrics for NotifiUs, LLC
+                        Have questions? <a href title="Contact us" class="hover:underline" href="/contact">Contact us</a>
                     </p>
                 </div>
             </div>
@@ -270,6 +270,7 @@
                         </div>
                     </div>
 
+                    <!--
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
@@ -280,7 +281,9 @@
                             </dd>
                         </div>
                     </div>
+                    -->
 
+                    <!--
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
@@ -291,7 +294,9 @@
                             </dd>
                         </div>
                     </div>
+                    -->
 
+                   <!--
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
                             <dt class="text-sm font-medium text-gray-500 truncate">
@@ -302,6 +307,7 @@
                             </dd>
                         </div>
                     </div>
+                    -->
 
                     <div class="bg-gray-50 overflow-hidden shadow rounded-lg">
                         <div class="px-4 py-5 sm:p-6">
